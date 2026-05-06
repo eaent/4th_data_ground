@@ -1,0 +1,587 @@
+[
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "724",
+    "release_year": "2022",
+    "accords": "aldehydic; white floral; musky; citrus; fresh; powdery; floral; sweet; fresh spicy; woody",
+    "top_notes": "Aldehydes; Calabrian bergamot",
+    "middle_notes": "Egyptian Jasmine; Mock Orange; Sweet Pea",
+    "base_notes": "White Musk; Sandalwood"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "754",
+    "release_year": "2012",
+    "accords": "floral; white floral; citrus; musky; fresh; powdery; sweet; green; woody; aromatic",
+    "top_notes": "Lemon",
+    "middle_notes": "Lily-of-the-Valley; Sweet Pea; Freesia",
+    "base_notes": "White Musk; Sandalwood"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "A La Rose",
+    "release_year": "2014",
+    "accords": "rose; floral; powdery; citrus; violet; musky; woody; fresh spicy",
+    "top_notes": "Calabrian bergamot; Litchi; Pear",
+    "middle_notes": "Bulgarian Rose; Grasse Rose; Violet; Sweet Pea",
+    "base_notes": "Musk; Cedar"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "APOM",
+    "release_year": "2024",
+    "accords": "white floral; sweet; musky; lavender; yellow floral; powdery; amber; vanilla; citrus; animalic",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Orange Blossom; White Musk; Lavender; Ylang Ylang; Amber; Vanilla"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "APOM Pour Femme",
+    "release_year": "2009",
+    "accords": "yellow floral; white floral; woody; sweet; citrus; soapy",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Ylang-Ylang; African Orange Flower; Virginia Cedar"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "APOM Pour Femme Elixir",
+    "release_year": "2009",
+    "accords": "white floral; yellow floral; woody; sweet; vanilla",
+    "top_notes": "Orange Blossom",
+    "middle_notes": "Ylang-Ylang; Jasmine",
+    "base_notes": "Cedar; Vanilla; Tonka Bean"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "APOM Pour Homme",
+    "release_year": "2009",
+    "accords": "white floral; amber; citrus; woody; animalic; sweet; soapy",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "African Orange Flower; Amber; Virginia Cedar"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Absolue Pour Le Matin 2024",
+    "release_year": "2024",
+    "accords": "powdery; citrus; aromatic; white floral; violet; woody; fresh spicy; fresh",
+    "top_notes": "Lemon",
+    "middle_notes": "Orange Blossom; Violet; Thyme",
+    "base_notes": "Powdery Notes; Woody Notes"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Absolue Pour Le Soir 2024",
+    "release_year": "2024",
+    "accords": "amber; honey; sweet; fresh spicy; vanilla; animalic; floral; powdery; rose",
+    "top_notes": "Cumin",
+    "middle_notes": "Honey; Labdanum; Rose",
+    "base_notes": "Amber; Vanilla"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Absolue Pour le Matin",
+    "release_year": "2010",
+    "accords": "citrus; aromatic; violet; powdery; fresh spicy; iris; lavender; floral; fresh",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Amalfi Lemon; Iris; Violet; Lavender; Thyme; Bergamot; Neroli; Amber"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Absolue Pour le Soir",
+    "release_year": "2010",
+    "accords": "amber; honey; warm spicy; woody; smoky; balsamic; sweet; floral",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "White Honey; Incense; Benzoin; Sandalwood; Atlas Cedar; Ylang-Ylang; Rose; Cumin"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Allegria",
+    "release_year": "2013",
+    "accords": "white floral; fresh; citrus; floral; green; sweet; fruity; fresh spicy; yellow floral; violet",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Lily-of-the-Valley; Pear; Lemon; Jasmine; Hyacinth; Ylang-Ylang; Bergamot; Violet; Amber"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Amyris Femme",
+    "release_year": "2012",
+    "accords": "woody; aromatic; citrus; iris; powdery; earthy; white floral; musky; balsamic; violet",
+    "top_notes": "Lemon Blossom; California Orange",
+    "middle_notes": "Amyris; Iris",
+    "base_notes": "Vetiver; Musk; Amber"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Amyris Femme Extrait de Parfum",
+    "release_year": "2019",
+    "accords": "white floral; woody; iris; citrus; fruity; powdery; aromatic",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Mandarin Blossom; Egyptian Jasmine; Amyris; Tuscan Iris; Pear; Woody Notes; Amber"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Amyris Homme",
+    "release_year": "2012",
+    "accords": "aromatic; woody; citrus; sweet; vanilla; iris; fresh spicy; balsamic; warm spicy; amber",
+    "top_notes": "Sicilian Mandarin; Rosemary",
+    "middle_notes": "Amyris; Iris; Milk Chocolate; Coconut; Coffee",
+    "base_notes": "Tonka Bean; Agarwood (Oud)"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Amyris Homme Extrait de Parfum",
+    "release_year": "2019",
+    "accords": "vanilla; woody; aromatic; warm spicy; citrus; iris; powdery; balsamic; sweet; cinnamon",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Amyris; Tonka Bean; Vanilla; Sicilian Mandarin; Tuscan Iris; Ceylon Cinnamon; Saffron"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Aqua Celestia",
+    "release_year": "2017",
+    "accords": "green; citrus; musky; aromatic; powdery; fresh spicy; fruity; floral; yellow floral; sweet",
+    "top_notes": "Lime; Mint; Black Currant; Neroli",
+    "middle_notes": "Green Notes; Mimosa; Rose",
+    "base_notes": "White Musk"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Aqua Celestia Cologne Forte",
+    "release_year": "2021",
+    "accords": "fruity; citrus; musky; powdery; floral; fresh spicy; aromatic; white floral; yellow floral; woody",
+    "top_notes": "Black Currant; Bergamot",
+    "middle_notes": "Jasmine; Mimosa",
+    "base_notes": "Musk"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Aqua Celestia Forte",
+    "release_year": "2018",
+    "accords": "citrus; green; aromatic; white floral; floral; fresh; fresh spicy; musky; powdery; sweet",
+    "top_notes": "Lime; Petitgrain; Lemon; Mint",
+    "middle_notes": "Black Currant Blossom; Jasmine; Hedione; Mimosa; Lily-of-the-Valley",
+    "base_notes": "Musk"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Aqua Media Cologne Forte",
+    "release_year": "2023",
+    "accords": "citrus; fresh; green; soft spicy; powdery; floral; musky; fresh spicy; woody; anis",
+    "top_notes": "Bergamot; Vervain",
+    "middle_notes": "Fennel; Hedione",
+    "base_notes": "Matcha Tea; Musk; Woodsy Notes"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Aqua Universalis",
+    "release_year": "2009",
+    "accords": "citrus; white floral; fresh; musky; aromatic",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Lily-of-the-Valley; Amalfi Lemon; Bergamot; Musk; Orange Blossom; Orange; Woodsy Notes"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Aqua Universalis Cologne Forte",
+    "release_year": "2021",
+    "accords": "musky; citrus; floral; sweet; powdery; white floral; fresh spicy; green; aromatic",
+    "top_notes": "Bergamot",
+    "middle_notes": "Sweet Pea; Mock Orange",
+    "base_notes": "White Musk"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Aqua Universalis Forte",
+    "release_year": "2011",
+    "accords": "white floral; citrus; musky; aromatic; powdery; woody; animalic",
+    "top_notes": "Amalfi Lemon; Bergamot",
+    "middle_notes": "White Flowers; Jasmine; Rose",
+    "base_notes": "Musk; Woodsy Notes"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Aqua Vitae",
+    "release_year": "2013",
+    "accords": "citrus; vanilla; woody; fresh; aromatic; white floral; sweet; floral",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Lemon; Sicilian Mandarin; Guaiac Wood; Tonka Bean; Vanilla; Jasmine; Hedione"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Aqua Vitae Cologne Forte",
+    "release_year": "2021",
+    "accords": "citrus; floral; musky; powdery; aldehydic; woody; fresh spicy",
+    "top_notes": "Mandarin Orange; Bergamot",
+    "middle_notes": "Floral Notes; Solar Notes",
+    "base_notes": "Musk; Sandalwood"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Aqua Vitae Forte",
+    "release_year": "2015",
+    "accords": "citrus; warm spicy; woody; aromatic; yellow floral; sweet; white floral",
+    "top_notes": "Lemon; Guatemalan Cardamom; Sicilian Mandarin; Ceylon Cinnamon; Bergamot; Pink Pepper",
+    "middle_notes": "Madagascar Ylang-Ylang; Tunisian Orange Blossom",
+    "base_notes": "Sandalwood; Haitian Vetiver"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Baccarat Rouge 540",
+    "release_year": "2015",
+    "accords": "woody; amber; warm spicy; metallic; fresh spicy; aromatic; white floral; animalic; fresh",
+    "top_notes": "Saffron; Jasmine",
+    "middle_notes": "Amberwood; Ambergris; Hedione",
+    "base_notes": "Fir Resin; Cedar; Sugar; Ambroxan; Oakmoss"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Baccarat Rouge 540 Édition Millésime",
+    "release_year": "2025",
+    "accords": "amber; woody; mossy; warm spicy; earthy; sweet; floral; fresh; musky",
+    "top_notes": "Saffron; Jasmine",
+    "middle_notes": "Amberwood; Ambergris; Hedione",
+    "base_notes": "oak moss; Ambroxan; Sugar; Cedar; Fir Resin"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Baccarat Rouge 540 Extrait Limited Edition 2021",
+    "release_year": "2021",
+    "accords": "amber; musky; woody; powdery; almond; warm spicy; animalic; white floral; nutty; metallic",
+    "top_notes": "Saffron; Bitter Almond",
+    "middle_notes": "Virginian Cedar; Egyptian Jasmine",
+    "base_notes": "Ambergris; Cashmeran; Ambroxan; Musk; Woody Notes"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Baccarat Rouge 540 Extrait Limited Edition",
+    "release_year": "2020",
+    "accords": "woody; amber; almond; musky; animalic; powdery; white floral; nutty; warm spicy; fruity",
+    "top_notes": "Bitter Almond; Saffron",
+    "middle_notes": "Cedar; Egyptian Jasmine",
+    "base_notes": "Ambergris; Woody Notes; Musk"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Baccarat Rouge 540 Extrait de Parfum",
+    "release_year": "2017",
+    "accords": "amber; almond; warm spicy; woody; musky; animalic; nutty; fruity; metallic; white floral",
+    "top_notes": "Bitter Almond; Saffron",
+    "middle_notes": "Egyptian Jasmine; Virginia Cedar",
+    "base_notes": "Ambergris; Woody Notes; Musk; Ambroxan; Cashmeran"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Baccarat Rouge 540 Scented Hair Mist",
+    "release_year": "2022",
+    "accords": "woody; amber; warm spicy; fresh; fresh spicy; white floral; aromatic; animalic; conifer; metallic",
+    "top_notes": "Saffron; Jasmine; Hedione",
+    "middle_notes": "Ambergris; Amberwood",
+    "base_notes": "Fir Resin; Cedar"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Ciel de Gum",
+    "release_year": "2013",
+    "accords": "amber; cinnamon; vanilla; white floral; warm spicy; soft spicy; rose; powdery; sweet; floral",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Amber; Cinnamon; Jasmine; Vanilla; Pink Pepper; Rose"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Cologne Pour Le Matin",
+    "release_year": "2009",
+    "accords": "citrus; aromatic; fresh spicy; lavender; white floral; herbal",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Bergamot; Lavender; Thyme; Amalfi Lemon; African Orange Flower"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Cologne Pour Le Soir",
+    "release_year": "2009",
+    "accords": "amber; honey; warm spicy; rose; smoky; balsamic; sweet; floral",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "White Honey; Benzoin; Incense; Rose"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Coloratura",
+    "release_year": "2012",
+    "accords": "white floral; fresh; floral; citrus; rose; green",
+    "top_notes": "Mandarin Orange; Sicilian Lemon",
+    "middle_notes": "Lily-of-the-Valley; Peony; White Lily; Rose",
+    "base_notes": "Vetiver; Ambergris"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Elle 25",
+    "release_year": "",
+    "accords": "floral; musky; woody; powdery; mossy",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Floral Notes; Musk; Virginia Cedar; oak moss"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Feminin Pluriel",
+    "release_year": "2014",
+    "accords": "white floral; violet; powdery; iris; rose; woody; earthy; floral; fresh; patchouli",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Iris; Rose; Violet; Lily-of-the-Valley; Vetiver; Indonesian Patchouli Leaf; Orange Blossom; Jasmine"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Floralia",
+    "release_year": "2011",
+    "accords": "white floral; rose; citrus; floral; fresh; fresh spicy; green",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Rose; Jasmine; Bergamot; Lily-of-the-Valley"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Gentle Fluidity Gold",
+    "release_year": "2019",
+    "accords": "vanilla; powdery; musky; sweet; aromatic; fresh spicy; woody",
+    "top_notes": "Juniper Berries; Nutmeg",
+    "middle_notes": "Coriander",
+    "base_notes": "Vanilla; Musk; Caramel; Amberwood"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Gentle Fluidity Silver",
+    "release_year": "2019",
+    "accords": "aromatic; fresh spicy; woody; musky; powdery",
+    "top_notes": "Juniper Berries; Nutmeg; Bergamot; Pineapple",
+    "middle_notes": "Coriander",
+    "base_notes": "Musk; Woody Notes; Cedar; Amber; Vanilla"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Grand Soir",
+    "release_year": "2016",
+    "accords": "amber; vanilla; powdery; sweet; aromatic",
+    "top_notes": "Spanish Labdanum; Orange",
+    "middle_notes": "Lavender; Siam Benzoin",
+    "base_notes": "Amber; Vanilla; Tonka Bean; Musk; Cedar"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Kurky",
+    "release_year": "2025",
+    "accords": "fruity; sweet; musky; powdery; vanilla",
+    "top_notes": "Peach; Raspberry",
+    "middle_notes": "Gummy Candies; Fruity Notes; Hedione; Rose",
+    "base_notes": "White Musk; Vanilla; Cream; Sandalwood; Rice; Popcorn"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Kurky Eau Parfumée",
+    "release_year": "2026",
+    "accords": "fruity; vanilla; sweet; powdery; musky",
+    "top_notes": "Raspberry; Peach",
+    "middle_notes": "Gummy Candies",
+    "base_notes": "Vanilla; White Musk"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "L'Homme À la Rose",
+    "release_year": "2020",
+    "accords": "rose; amber; citrus; woody; aromatic; herbal; floral; soft spicy; musky; fresh spicy",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "May Rose; Damask Rose; Grapefruit; Amberwood; Sage; Spanish Labdanum"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "L'eau À la Rose",
+    "release_year": "2019",
+    "accords": "rose; floral; fresh; fruity; musky; powdery; tropical; violet; aquatic",
+    "top_notes": "Litchi; Pear; Green Accord",
+    "middle_notes": "Damask Rose; Grasse Rose; Peony; Violet",
+    "base_notes": "Musk"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Le Beau Parfum 2025",
+    "release_year": "2025",
+    "accords": "white floral; tuberose; yellow floral; animalic; sweet",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Tuberose; Jasmine; Ylang Ylang; Orange Blossom"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Le Beau Parfum",
+    "release_year": "2015",
+    "accords": "white floral; tuberose; yellow floral; sweet; animalic",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Tuberose; Madagascar Ylang-Ylang; Tunisian Orange Blossom; Indian Jasmine"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Le Beau Parfum Limited Edition",
+    "release_year": "2015",
+    "accords": "white floral; tuberose; yellow floral; sweet; animalic",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Tuberose; Madagascar Ylang-Ylang; Tunisian Orange Blossom; Indian Jasmine"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Lumière Noire Pour Femme",
+    "release_year": "2009",
+    "accords": "rose; patchouli; yellow floral; warm spicy; woody; green; aromatic; fresh spicy; balsamic; floral",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Rose; Narcissus; Patchouli; Caraway; Red Chilli Pepper"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Lumière Noire Pour Homme",
+    "release_year": "2009",
+    "accords": "rose; patchouli; herbal; warm spicy; woody; fresh spicy; aromatic; cinnamon; earthy; floral",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Rose; Patchouli; Artemisia; Cinnamon; Cumin"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Maison Francis Kurkdjian Limited Crystal Edition Fragrances",
+    "release_year": "2011",
+    "accords": "amber; balsamic; white floral; aromatic; floral; smoky; fresh spicy; herbal; sweet; rose",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Resin; Marigold; Jasmine; Incense; Rose"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Masculin Pluriel",
+    "release_year": "2014",
+    "accords": "woody; lavender; aromatic; earthy; patchouli; leather",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Lavender; Vetiver; Patchouli; Cedar; Leather; Woody Notes"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Oud",
+    "release_year": "2012",
+    "accords": "warm spicy; oud; aromatic; woody; balsamic; metallic; patchouli; leather; conifer; fresh spicy",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Saffron; elemi; Agarwood (Oud); Patchouli; Cedar"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Oud Cashmere Mood",
+    "release_year": "2013",
+    "accords": "amber; oud; vanilla; warm spicy; balsamic; musky",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Agarwood (Oud); Labdanum; Benzoin; Vanila"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Oud Extrait de Parfum",
+    "release_year": "2018",
+    "accords": "oud; warm spicy; woody; vanilla; aromatic; balsamic; musky; metallic; leather; floral",
+    "top_notes": "Saffron; Elemi resin",
+    "middle_notes": "Vanilla; Ambrette (Musk Mallow); Atlas Cedar",
+    "base_notes": "Laotian Oud; Indonesian Patchouli Leaf"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Oud Satin Mood",
+    "release_year": "2015",
+    "accords": "rose; floral; oud; amber; vanilla; powdery",
+    "top_notes": "Bulgarian Rose; Violet; Strawberry",
+    "middle_notes": "Turkish Rose",
+    "base_notes": "Agarwood (Oud); Vanilla; Amber; Benzoin; Caramel; Cedar"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Oud Satin Mood Extrait de Parfum",
+    "release_year": "2017",
+    "accords": "oud; vanilla; powdery; amber; violet; rose; fresh spicy; warm spicy; floral; aromatic",
+    "top_notes": "Violet; Geranium; Ceylon Cinnamon; Cardamom",
+    "middle_notes": "Damask Rose; Turkish Rose",
+    "base_notes": "Agarwood (Oud); Vanilla; Amber; Benzoin; Caramel; Musk; Cedar"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Oud Silk Mood",
+    "release_year": "2018",
+    "accords": "rose; oud; floral; woody; herbal; fresh spicy; green; citrus; aromatic",
+    "top_notes": "Bulgarian Rose; Chamomile; Bergamot",
+    "middle_notes": "Guaiac Wood; Hedione",
+    "base_notes": "Agarwood (Oud); Papyrus"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Oud Silk Mood Extrait de Parfum",
+    "release_year": "2013",
+    "accords": "rose; oud; floral; herbal; woody; fresh spicy; green; leather",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Bulgarian Rose; Agarwood (Oud); Chamomile; Papyrus"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Oud Velvet Mood",
+    "release_year": "2013",
+    "accords": "oud; warm spicy; amber; cinnamon; balsamic; metallic; leather; fresh spicy",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Agarwood (Oud); Copahu Balm; Saffron; Ceylon Cinnamon"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Oud Velvet Mood Extrait de Parfum",
+    "release_year": "2026",
+    "accords": "leather; oud; fruity; musky; powdery; sweet",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Suede; Peach; Oud"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Petit Matin",
+    "release_year": "2016",
+    "accords": "citrus; musky; white floral; aromatic; lavender; sweet; amber; floral; powdery; animalic",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Italian Lemon; Orange Blossom; Musk; Lavender; Ambroxan; Hawthorn"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Reflets d'Ambre",
+    "release_year": "2024",
+    "accords": "amber; floral; soft spicy; vanilla; white floral; woody; patchouli; fresh; musky; balsamic",
+    "top_notes": "Pink Pepper",
+    "middle_notes": "Hedione; Jasmine; Rose; Cinnamon",
+    "base_notes": "Amber; Labdanum; Vanilla; Patchouli"
+  },
+  {
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Trianon Palace Versailles",
+    "release_year": "",
+    "accords": "floral; woody",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Floral Notes; Woodsy Notes"
+  }
+]

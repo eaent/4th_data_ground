@@ -1,0 +1,2315 @@
+[
+  {
+    "brand": "Giorgio Armani",
+    "name": "A Milano",
+    "release_year": "2021",
+    "accords": "citrus; aromatic; fresh; iris; fresh spicy; powdery; woody; lavender; musky",
+    "top_notes": "Citruses; Citron; elemi",
+    "middle_notes": "Wild Lavender; Cypress",
+    "base_notes": "Orris Root; White Musk"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Acqua Di Gioia Eau Fraiche",
+    "release_year": "2013",
+    "accords": "citrus; aquatic; fresh; sweet; white floral; green; aromatic",
+    "top_notes": "Lemon; Grapefruit; Mandarin Orange",
+    "middle_notes": "Watery Notes; Water Jasmine; Tea; Ylang-Ylang",
+    "base_notes": "Brown sugar; Musk; Cedar"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Acqua Di Gioia Jasmine",
+    "release_year": "2015",
+    "accords": "white floral; green; fruity; fresh; ozonic; sweet; aquatic; citrus; aromatic; musky",
+    "top_notes": "Green Apple; Violet Leaf; Lemon; Galbanum",
+    "middle_notes": "Water Jasmine; Jasmine",
+    "base_notes": "Brown sugar; Musk; Cedar"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Acqua di Gio",
+    "release_year": "1996",
+    "accords": "citrus; aromatic; marine; fresh spicy; floral; woody; fresh",
+    "top_notes": "Lime; Lemon; Bergamot; Jasmine; Orange; Mandarin Orange; Neroli",
+    "middle_notes": "Sea Notes; Jasmine; Calone; Rosemary; Peach; Freesia; Hiacynth; Cyclamen; Violet; Coriander; Rose; Nutmeg; Mignonette",
+    "base_notes": "White Musk; Cedar; Oakmoss; Patchouli; Amber"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Acqua di Gio",
+    "release_year": "1995",
+    "accords": "floral; fresh; white floral; green; rose; fruity; sweet; vodka; powdery; woody",
+    "top_notes": "Peony; Musk Vodka; Pineapple; Lemon; Peach; Banana Leaf; Violet",
+    "middle_notes": "Lily-of-the-Valley; Hiacynth; Lily; Jasmine; Freesia; Calone; Ylang-Ylang; Rose",
+    "base_notes": "Musk; Cedar; Sandalwood; Amber; Styrax"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Acqua di Giò Absolu",
+    "release_year": "2018",
+    "accords": "aromatic; woody; citrus; fresh spicy; amber; marine; fruity; warm spicy; sweet; aquatic",
+    "top_notes": "Sea Notes; Bergamot; Pear; Apple; Grapefruit; Lemon",
+    "middle_notes": "Lavender; Rosemary; Geranium",
+    "base_notes": "Woody Notes; Tonka Bean; Amberwood; Patchouli; Labdanum"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Acqua di Giò Absolu Instinct",
+    "release_year": "2019",
+    "accords": "woody; citrus; marine; aromatic; amber; warm spicy; aquatic; patchouli",
+    "top_notes": "Sea Notes; Lemon; Bergamot",
+    "middle_notes": "Seaweed; Patchouli",
+    "base_notes": "Amberwood; Ebony Wood"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Acqua di Gio - Acqua di Life Edition",
+    "release_year": "2011",
+    "accords": "marine; aromatic; fresh spicy; citrus; amber; sweet; salty; green; woody; fruity",
+    "top_notes": "Sea water; Bergamot; Neroli",
+    "middle_notes": "Persimmon; Watercress; Rosemary",
+    "base_notes": "Amber; French labdanum; Patchouli"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Acqua di Gio Blue Edition Pour Homme",
+    "release_year": "2014",
+    "accords": "citrus; aquatic; fresh spicy; white floral; floral; fresh; amber; aromatic; sweet; woody",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Water Notes; Calabrian bergamot; Jasmine; Mandarin Orange; Persimmon; Nasturtium; Patchouli; Rosemary; Labdanum; Neroli; Amber"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Acqua di Giò Eau de Parfum",
+    "release_year": "2022",
+    "accords": "aromatic; marine; mineral; citrus; fresh spicy; lavender; woody; salty",
+    "top_notes": "Sea Notes; Green Mandarin",
+    "middle_notes": "Clary Sage; Lavender; Geranium",
+    "base_notes": "Mineral notes; Vetiver; Patchouli"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Acqua di Giò Eau de Parfum Intense",
+    "release_year": "2026",
+    "accords": "aromatic; fruity; woody; marine; citrus; fresh; fresh spicy; green; soft spicy; amber",
+    "top_notes": "Green Apple; Calabrian bergamot",
+    "middle_notes": "Marine notes; Clary Sage",
+    "base_notes": "Woody Notes; Amber"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Acqua di Giò Elixir",
+    "release_year": "2025",
+    "accords": "aquatic; citrus; ozonic; woody; fresh spicy; leather; aromatic; patchouli; earthy; green",
+    "top_notes": "Bergamot; Green Mandarin; Nutmeg",
+    "middle_notes": "Violet Leaf; Water Notes",
+    "base_notes": "Leather; Patchouli; Vetiver; Labdanum"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Acqua di Gio Essenza",
+    "release_year": "2012",
+    "accords": "fresh spicy; aromatic; citrus; fresh; aquatic; woody; floral; amber; herbal; green",
+    "top_notes": "Water Notes; Bergamot; Grapefruit; Calone",
+    "middle_notes": "Basil; Floral Notes; Jasmine; Sage",
+    "base_notes": "Pepper; Cedar; Musk; Vetiver; Ambergris; Clary Sage; Amber; Patchouli"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Acqua di Giò Parfum",
+    "release_year": "2023",
+    "accords": "aromatic; fresh spicy; marine; woody; citrus; amber; patchouli; warm spicy",
+    "top_notes": "Marine notes; Bergamot",
+    "middle_notes": "Rosemary; Clary Sage; Geranium",
+    "base_notes": "Olibanum; Patchouli"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Acqua di Giò Profondo",
+    "release_year": "2020",
+    "accords": "marine; aromatic; citrus; fresh spicy; fresh; woody; mineral; salty; lavender",
+    "top_notes": "Sea Notes; Aquozone; Bergamot; Green Mandarin",
+    "middle_notes": "Rosemary; Lavender; Cypress; Mastic or Lentisque",
+    "base_notes": "Mineral notes; Musk; Patchouli; Amber"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Acqua di Giò Profondo Eau de Parfum (2024)",
+    "release_year": "2024",
+    "accords": "aromatic; marine; citrus; mineral; woody; fresh spicy; salty; amber; lavender; aquatic",
+    "top_notes": "Sea Notes; Green Mandarin",
+    "middle_notes": "Rosemary; Lavender",
+    "base_notes": "Mineral notes; Ambergris; Musk; Cedar; Patchouli"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Acqua di Giò Profondo Eau de Toilette",
+    "release_year": "2025",
+    "accords": "citrus; fresh; woody; aromatic; mineral; ozonic; lavender; fresh spicy; warm spicy",
+    "top_notes": "Lemon; Grapefruit; Spices",
+    "middle_notes": "Calone; Lavender; Cypress",
+    "base_notes": "Mineral notes; Woody Notes; Patchouli"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Acqua di Giò Profondo Lights",
+    "release_year": "2021",
+    "accords": "aromatic; woody; fresh spicy; marine; citrus",
+    "top_notes": "Sea Notes; Green Mandarin; Cardamom",
+    "middle_notes": "Rosemary; Balsam Fir; Cypress; Mastic or Lentisque; Lavender Extract",
+    "base_notes": "Cedar; Vetiver; Patchouli"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Acqua di Giò Profondo Parfum",
+    "release_year": "2024",
+    "accords": "marine; citrus; aromatic; patchouli; yellow floral; salty; amber; woody; aquatic; powdery",
+    "top_notes": "Marine notes; Green Mandarin",
+    "middle_notes": "Mimosa",
+    "base_notes": "Patchouli; Labdanum"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Acqua di Giò Profumo",
+    "release_year": "2015",
+    "accords": "aromatic; marine; fresh spicy; amber; woody; smoky; warm spicy; citrus; balsamic; patchouli",
+    "top_notes": "Sea Notes; Bergamot",
+    "middle_notes": "Rosemary; Sage; Geranium",
+    "base_notes": "Incense; Patchouli"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Acqua di Gio Profumo Special Blend",
+    "release_year": "2017",
+    "accords": "aromatic; fresh spicy; marine; woody; patchouli; warm spicy; amber; balsamic; smoky; herbal",
+    "top_notes": "Sea Notes; Bergamot",
+    "middle_notes": "Sage; Rosemary; Geranium",
+    "base_notes": "Patchouli; Incense"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Acqua di Gioia",
+    "release_year": "2010",
+    "accords": "citrus; aromatic; green; white floral; fresh spicy; woody; fresh",
+    "top_notes": "Amalfi Lemon; Mint",
+    "middle_notes": "Water Jasmine",
+    "base_notes": "Virginia Cedar; Brown sugar; French labdanum"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Acqua di Gioia Eau de Parfum Satinee",
+    "release_year": "2012",
+    "accords": "fresh; green; citrus; aquatic; aromatic; white floral; floral; woody; fresh spicy",
+    "top_notes": "Mint; Mojito; Amalfi Lemon",
+    "middle_notes": "Water Notes; Jasmine; Peony; Pink Pepper",
+    "base_notes": "Virginia Cedar; French labdanum"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Acqua di Gioia Eau de Toilette",
+    "release_year": "2014",
+    "accords": "fresh; citrus; fruity; floral; aquatic; woody; white floral; ozonic; sweet; aromatic",
+    "top_notes": "Lemon; Pear; Violet Leaf; Black Currant",
+    "middle_notes": "Peony; Jasmine Sambac; Jasmine",
+    "base_notes": "Cedar; Cashmere Wood"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Acqua di Gioia Essenza",
+    "release_year": "2011",
+    "accords": "sweet; white floral; green; aromatic; woody; citrus; musky; vanilla; fresh spicy; powdery",
+    "top_notes": "Mint; Amalfi Lemon; Pink Pepper",
+    "middle_notes": "Jasmine",
+    "base_notes": "Sugar; Cashmeran; Virginia Cedar"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Acqua di Gioia Hair & Body Mist",
+    "release_year": "2018",
+    "accords": "floral; fresh; aromatic; green; woody; citrus; sweet; white floral; amber; rose",
+    "top_notes": "Mint; Lemon",
+    "middle_notes": "Peony; Jasmine Sambac; Pink Pepper",
+    "base_notes": "Cedar; Brown sugar; Labdanum"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Acqua di Gioia Intense",
+    "release_year": "2024",
+    "accords": "citrus; fresh; fruity; white floral; musky; woody; rose; powdery; sweet; floral",
+    "top_notes": "Citruses; Red Fruits",
+    "middle_notes": "Jasmine; Damask Rose",
+    "base_notes": "Musk; Woodsy Notes"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Air di Gioia",
+    "release_year": "2016",
+    "accords": "woody; floral; fresh; citrus; salty; white floral; aromatic; earthy; mossy; fresh spicy",
+    "top_notes": "Salt; Neroli; Mandarin Orange",
+    "middle_notes": "Peony; Orange Blossom; Ylang-Ylang",
+    "base_notes": "Cypress; Moss; Patchouli; Cashmere Wood"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Ambre Eccentrico",
+    "release_year": "2015",
+    "accords": "amber; warm spicy; cinnamon; fruity; sweet; woody; vanilla; patchouli",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Amber; Dried Fruits; Cinnamon; Tonka Bean; Patchouli; Prunol"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Ambre Soie",
+    "release_year": "2004",
+    "accords": "warm spicy; amber; fresh spicy; patchouli; woody",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Amber; Cloves; Patchouli; Pepper; Ginger"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani",
+    "release_year": "1981",
+    "accords": "green; aromatic; woody; balsamic; amber; mossy; floral; white floral; earthy; sweet",
+    "top_notes": "Galbanum; Marigold; Aldehydes; Bergamot; Pineapple; Mint",
+    "middle_notes": "Narcissus; Orris Root; Tuberose; Rose; Jasmine; Cyclamen; Lily-of-the-Valley; Orchid",
+    "base_notes": "Oakmoss; Benzoin; Cedar; Amber; Sandalwood; Tonka Bean; Musk"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Attitude",
+    "release_year": "2007",
+    "accords": "warm spicy; woody; amber; patchouli; coffee; aromatic; lavender; citrus; balsamic; earthy",
+    "top_notes": "Coffee; Sicilian Lemon",
+    "middle_notes": "Lavender; Cardamom",
+    "base_notes": "Patchouli; Amber; Opoponax; Chinese Cedar"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Code",
+    "release_year": "2004",
+    "accords": "citrus; leather; anis; soft spicy; floral; tobacco; sweet; aromatic; vanilla; animalic",
+    "top_notes": "Lemon; Bergamot",
+    "middle_notes": "Star Anise; Olive Blossom; Guaiac Wood",
+    "base_notes": "Leather; Tonka Bean; Tobacco"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Code A-List",
+    "release_year": "2018",
+    "accords": "citrus; woody; aromatic; lavender; vanilla; sweet; amber; fresh spicy",
+    "top_notes": "Green Mandarin; Bergamot",
+    "middle_notes": "Lavender",
+    "base_notes": "Tonka Bean; Guaiac Wood"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Code Absolu",
+    "release_year": "2019",
+    "accords": "vanilla; powdery; sweet; fresh spicy; leather; amber; citrus; musky; woody",
+    "top_notes": "Green Mandarin; Apple",
+    "middle_notes": "Nutmeg; Orange Blossom; Carrot Seeds",
+    "base_notes": "Vanilla; Tonka Bean; Suede; Woody Notes"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Code Absolu Femme",
+    "release_year": "2019",
+    "accords": "white floral; vanilla; citrus; tuberose; sweet; powdery",
+    "top_notes": "Neroli; Ginger; Mandarin Orange",
+    "middle_notes": "Tuberose; Orange Blossom; Jasmine",
+    "base_notes": "Vanilla; Tonka Bean; Sandalwood"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Code Absolu Gold",
+    "release_year": "2020",
+    "accords": "amber; warm spicy; woody; vanilla; iris; powdery; citrus; fruity; violet; sweet",
+    "top_notes": "Mandarin Orange; Green Apple",
+    "middle_notes": "Iris; Saffron",
+    "base_notes": "Tonka Bean; Benzoin; Guaiac Wood; Cedar"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Code Cashmere",
+    "release_year": "2017",
+    "accords": "almond; white floral; powdery; leather; nutty; floral; sweet; fruity; vanilla; smoky",
+    "top_notes": "Orange Blossom; Jasmine Sambac",
+    "middle_notes": "Almond Milk; Heliotrope; Iris",
+    "base_notes": "Suede; Leather; Incense; Patchouli"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Code Casino Limited Edition 2008",
+    "release_year": "2008",
+    "accords": "citrus; woody; aromatic; vanilla; fresh spicy; amber",
+    "top_notes": "Bergamot; Lemon",
+    "middle_notes": "",
+    "base_notes": "Guaiac Wood; Tonka Bean"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Code Colonia",
+    "release_year": "2017",
+    "accords": "citrus; amber; vanilla; aromatic; sweet; woody; white floral; powdery; soft spicy; warm spicy",
+    "top_notes": "Bergamot; Mandarin Orange; Pink Pepper",
+    "middle_notes": "Orange Blossom; Clary Sage; Amyl Salicylate",
+    "base_notes": "Tonka Bean; Amberwood; Heliotrope"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Code Couture Edition",
+    "release_year": "2012",
+    "accords": "citrus; sweet; floral; vanilla; fruity; white floral; fresh spicy; honey; leather; woody",
+    "top_notes": "Blood Orange; Petitgrain; Pear; Ginger; Bergamot",
+    "middle_notes": "Orange Blossom; Mirabilis; Osmanthus",
+    "base_notes": "Honey; Leather; Vanilla; Tonka Bean; Cedar"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Code Eau de Parfum (2024)",
+    "release_year": "2024",
+    "accords": "fresh spicy; vanilla; amber; citrus; sweet; aromatic; warm spicy",
+    "top_notes": "Green Mandarin",
+    "middle_notes": "Nutmeg",
+    "base_notes": "Tonka Bean"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Code Eau de Parfum",
+    "release_year": "2021",
+    "accords": "vanilla; citrus; aromatic; musky; powdery; lavender; sweet; leather; amber; fresh spicy",
+    "top_notes": "Lavender; Lemon; Bergamot",
+    "middle_notes": "Tonka Bean",
+    "base_notes": "Vanilla; Suede; Musk; Cedar"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Code Eau de Toilette",
+    "release_year": "2023",
+    "accords": "lavender; vanilla; aromatic; woody; citrus; amber; sweet; fresh spicy; warm spicy; herbal",
+    "top_notes": "Green Mandarin",
+    "middle_notes": "Lavender",
+    "base_notes": "Tonka Bean; Cedar"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Code Elixir",
+    "release_year": "2025",
+    "accords": "leather; animalic; vanilla; citrus; amber; alcohol; sweet; smoky; aromatic",
+    "top_notes": "Green Mandarin",
+    "middle_notes": "Leather; Liquor",
+    "base_notes": "Tonka Bean"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Code Elixir",
+    "release_year": "2007",
+    "accords": "",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": ""
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Code Golden Edition",
+    "release_year": "2013",
+    "accords": "citrus; leather; woody; aromatic; floral; sweet; tobacco; vanilla; animalic; smoky",
+    "top_notes": "Bergamot; Lemon",
+    "middle_notes": "Olive Blossom; Guaiac Wood; Star Anise",
+    "base_notes": "Leather; Tonka Bean; Tobacco"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Code Ice",
+    "release_year": "2014",
+    "accords": "fresh spicy; aromatic; green; citrus; woody; lavender; fresh; herbal",
+    "top_notes": "Mint; Ginger; Lemon",
+    "middle_notes": "Lavender; Geranium; Sage",
+    "base_notes": "Woody Notes; Guaiac Wood; Tonka Bean"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Code Le Parfum",
+    "release_year": "2008",
+    "accords": "fresh spicy; white floral; citrus; fresh; rose; fruity; sweet; floral; aquatic",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Ginger; Jasmine; Rose; Orange; Pear"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Code Luna",
+    "release_year": "2012",
+    "accords": "citrus; vanilla; sweet; white floral; floral; fruity; aromatic; fresh; fresh spicy; powdery",
+    "top_notes": "Bitter Orange; Bergamot; Petitgrain; Pear",
+    "middle_notes": "Orange Blossom; Osmanthus; Mirabilis",
+    "base_notes": "Vanilla; Tonka Bean; Leather; Cedar"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Code Mirror Edition",
+    "release_year": "2008",
+    "accords": "citrus; white floral; sweet; vanilla; honey",
+    "top_notes": "Italian Orange; Bitter Orange; Jasmine",
+    "middle_notes": "Jasmine; Orange Blossom",
+    "base_notes": "Vanilla; Honey"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Code Parfum",
+    "release_year": "2022",
+    "accords": "iris; aromatic; powdery; woody; citrus; vanilla; earthy; aldehydic; violet; fresh spicy",
+    "top_notes": "Bergamot; Bergamot Leaf",
+    "middle_notes": "Iris; Aldehydes; Clary Sage; Orris",
+    "base_notes": "Tonka Bean; Cedar"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Code Profumo",
+    "release_year": "2016",
+    "accords": "amber; vanilla; warm spicy; aromatic; leather; fresh spicy; sweet; animalic; citrus; lavender",
+    "top_notes": "Cardamom; Green Apple; Green Mandarin",
+    "middle_notes": "Nutmeg; Lavender; Orange Blossom",
+    "base_notes": "Tonka Bean; Amber; Leather"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Code Satin",
+    "release_year": "2015",
+    "accords": "sweet; white floral; vanilla; cacao; warm spicy; citrus; fresh spicy; fresh; fruity; patchouli",
+    "top_notes": "Ginger; Sorbet; Pear",
+    "middle_notes": "Orange Blossom; Neroli; Jasmine",
+    "base_notes": "Vanilla; Cacao; Praline; Patchouli"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Code Sheer",
+    "release_year": "2007",
+    "accords": "white floral; fresh; floral; musky; woody; citrus",
+    "top_notes": "African Orange Flower",
+    "middle_notes": "Cyclamen; Jasmine; Lily-of-the-Valley",
+    "base_notes": "Musk; Woodsy Notes"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Code Special Blend",
+    "release_year": "2015",
+    "accords": "citrus; woody; anis; aromatic; floral; soft spicy; sweet; tobacco; vanilla; powdery",
+    "top_notes": "Neroli; Mandarin Orange; Bergamot",
+    "middle_notes": "Star Anise; Olive Blossom; Tarragon",
+    "base_notes": "Tonka Bean; Guaiac Wood; Tobacco; Cedar"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Code Sport",
+    "release_year": "2011",
+    "accords": "citrus; aromatic; green; fresh spicy; fresh; aquatic",
+    "top_notes": "Mint; Mandarin Orange",
+    "middle_notes": "Lemon; Ginger flower",
+    "base_notes": "Water Notes; Vetiver; Amber"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Code Sport Athlete",
+    "release_year": "2012",
+    "accords": "citrus; fresh spicy; fresh; aromatic; green; aquatic; woody; amber; smoky; earthy",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Citruses; Ginger flower; Mint; Water Notes; Vetiver; Incense; Pink Pepper"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Code Sport Edition 2016",
+    "release_year": "2016",
+    "accords": "aromatic; fresh spicy; citrus; green; amber; woody; fresh; musky",
+    "top_notes": "Mint; Peppermint; Sicilian Lemon; Mandarin Orange",
+    "middle_notes": "Ginger; Geranium",
+    "base_notes": "Ambroxan; Rosemary; Vetiver; Labdanum"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Code Summer Pour Femme 2010",
+    "release_year": "2010",
+    "accords": "citrus; white floral; fresh; fresh spicy; floral; fruity; sweet; vanilla; musky; woody",
+    "top_notes": "Bitter Orange; Neroli; Pear",
+    "middle_notes": "Ginger; Jasmine; Cyclamen; African Orange Flower",
+    "base_notes": "Musk; Vanille; Woodsy Notes"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Code Summer Pour Femme 2011",
+    "release_year": "2011",
+    "accords": "citrus; white floral; fresh; fruity; sweet; fresh spicy; floral; woody; musky; powdery",
+    "top_notes": "Bitter Orange; Neroli; Pear",
+    "middle_notes": "African Orange Flower; Jasmine; Ginger; Cyclamen",
+    "base_notes": "Musk; Woodsy Notes; Vanille"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Code Summer Pour Homme 2010",
+    "release_year": "2010",
+    "accords": "citrus; aromatic; floral; marine; fresh spicy; woody; rose; powdery; white floral",
+    "top_notes": "Neroli; Bergamot; Sea water; Grapefruit",
+    "middle_notes": "Olive Blossom; Tincture of Rose; Tarragon; Virginia Cedar",
+    "base_notes": "Musk; Amber; Guaiac Wood"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Code Summer Pour Homme 2011",
+    "release_year": "2011",
+    "accords": "citrus; woody; aromatic; green; fresh spicy; rose; herbal; amber; floral; marine",
+    "top_notes": "Grapefruit; Bergamot; Neroli; Sea water",
+    "middle_notes": "Olive Leaf; Rose; Tarragon; Virginia Cedar",
+    "base_notes": "Amber; Musk; Guaiac Wood; oak moss"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Code Summer pour Femme",
+    "release_year": "2009",
+    "accords": "white floral; citrus; fresh; aquatic; fresh spicy; sweet; floral; fruity; musky; woody",
+    "top_notes": "Water Notes; Bitter Orange; Neroli; Pear",
+    "middle_notes": "African Orange Flower; Jasmine; Ginger; Cyclamen",
+    "base_notes": "Musk; Woodsy Notes; Vanilla"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Code Summer pour Homme",
+    "release_year": "2009",
+    "accords": "citrus; woody; aromatic; fresh spicy; marine; powdery; amber; musky; rose",
+    "top_notes": "Grapefruit; Neroli; Sea water; Bergamot",
+    "middle_notes": "Rose; Virginia Cedar; Tarragon",
+    "base_notes": "Guaiac Wood; Amber; Musk"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Code Turquoise for Men",
+    "release_year": "2015",
+    "accords": "woody; citrus; musky; powdery; white floral; amber; fresh spicy",
+    "top_notes": "Neroli; Grapefruit",
+    "middle_notes": "Olive Tree; Cedar",
+    "base_notes": "Musk; Guaiac Wood; Amber"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Code Turquoise for Women",
+    "release_year": "2015",
+    "accords": "white floral; citrus; fresh; sweet; fresh spicy; fruity; musky; woody",
+    "top_notes": "Orange Blossom; Neroli; Pear",
+    "middle_notes": "Orange Blossom; Ginger; Jasmine",
+    "base_notes": "Orange Blossom; Musk; White Woods; Vanilla"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Code Ultimate",
+    "release_year": "2012",
+    "accords": "vanilla; woody; powdery; sweet; floral; soft spicy; aromatic; anis; amber; citrus",
+    "top_notes": "Star Anise; Grapefruit; Mandarin Orange",
+    "middle_notes": "Heliotrope; Olive Blossom; Cedar; Cypress",
+    "base_notes": "Vanilla; Tonka Bean; Guaiac Wood"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Code Ultimate Femme",
+    "release_year": "2014",
+    "accords": "white floral; citrus; vanilla; coffee; fresh; sweet; fresh spicy; warm spicy; woody; fruity",
+    "top_notes": "Bitter Orange; Ginger; Pear",
+    "middle_notes": "Coffee; Orange Blossom; Jasmine Sambac",
+    "base_notes": "Vanilla Bean; Exotic Woods"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Code for Women",
+    "release_year": "2006",
+    "accords": "citrus; white floral; sweet; vanilla; honey; fresh spicy; fresh; powdery; floral",
+    "top_notes": "Italian Orange; Jasmine; Bitter Orange",
+    "middle_notes": "Jasmine; Orange Blossom; Ginger",
+    "base_notes": "Honey; Vanilla; Sandalwood"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Eau Pour Homme",
+    "release_year": "1984",
+    "accords": "citrus; aromatic; fresh spicy; woody; earthy; mossy",
+    "top_notes": "Lemon; Bergamot; Mandarin Orange; Green Orange; Basil",
+    "middle_notes": "Lavender; Nutmeg; Carnation; Jasmine; Lily; Rose; Cinnamon",
+    "base_notes": "Oakmoss; Vetiver; Cedar; Sandalwood; Musk; Patchouli"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Eau Pour Homme (new)",
+    "release_year": "2013",
+    "accords": "citrus; fresh spicy; woody; warm spicy; aromatic; mossy; earthy; green",
+    "top_notes": "Bergamot; Mandarin Orange; Basil",
+    "middle_notes": "Cloves; Nutmeg; Lily",
+    "base_notes": "Oakmoss; Sandalwood; Patchouli"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Eau d’Aromes",
+    "release_year": "2014",
+    "accords": "citrus; aromatic; fresh spicy; woody; warm spicy; earthy; herbal; fresh; patchouli",
+    "top_notes": "Mandarin Orange; Bergamot",
+    "middle_notes": "Ginger; Patchouli",
+    "base_notes": "Vetiver; Sage; Cardamom"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Eau de Cèdre",
+    "release_year": "2015",
+    "accords": "woody; aromatic; green; ozonic; citrus; warm spicy; fresh spicy; leather; musky; powdery",
+    "top_notes": "Sage; Bergamot; Lemon",
+    "middle_notes": "Violet Leaf; Cardamom; Cumin",
+    "base_notes": "Black Tea; Cedar Essence; Suede; Woody Notes"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Eau de Nuit",
+    "release_year": "2013",
+    "accords": "powdery; vanilla; iris; amber; warm spicy; aromatic; woody; fresh spicy; sweet; violet",
+    "top_notes": "Pink Pepper; Bergamot",
+    "middle_notes": "Iris; Cardamom; Nutmeg; Heliotrope",
+    "base_notes": "Tonka Bean; Amber; Cedar"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Eau de Nuit Oud",
+    "release_year": "2016",
+    "accords": "warm spicy; rose; oud; aromatic; fresh spicy; iris; vanilla; floral; sweet; powdery",
+    "top_notes": "Cardamom; Pink Pepper; Bergamot",
+    "middle_notes": "Rose; Iris; Geranium",
+    "base_notes": "Agarwood (Oud); Saffron; Tonka Bean"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Mania",
+    "release_year": "2002",
+    "accords": "woody; citrus; musky; warm spicy; aromatic; powdery; earthy; amber; metallic; green",
+    "top_notes": "Mandarin Orange; Saffron; Citrus Leaves",
+    "middle_notes": "Cedar; Vetiver",
+    "base_notes": "Musk; Amber"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Mania",
+    "release_year": "2004",
+    "accords": "woody; citrus; powdery; floral; soft spicy; vanilla; fresh spicy; musky; sweet; amber",
+    "top_notes": "Pink Pepper; Bay Leaf; Orange; Black Currant; Green Mandarin",
+    "middle_notes": "Magnolia; Peony; Iris; Lily-of-the-Valley",
+    "base_notes": "Vanilla; White Sandalwood; Amber; Musk; Virginia Cedar"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Privé Ambre Orient",
+    "release_year": "2010",
+    "accords": "amber; woody; warm spicy; vanilla; powdery; soft spicy; aromatic; balsamic; cinnamon; musky",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Amber; French labdanum; Vanille; Pink Pepper; Cinnamon; Patchouli; Thyme; Sandalwood"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Privé Bleu Lazuli",
+    "release_year": "2018",
+    "accords": "sweet; fruity; aromatic; warm spicy; honey; tobacco; floral; vanilla; woody; fresh spicy",
+    "top_notes": "Mate; Cardamom; Bergamot",
+    "middle_notes": "Plum; Osmanthus; Jasmine",
+    "base_notes": "Honey; Tobacco; Vanilla; Sandalwood"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Privé Bleu Turquoise",
+    "release_year": "2018",
+    "accords": "woody; vanilla; salty; warm spicy; amber; balsamic; smoky; earthy; powdery; fresh spicy",
+    "top_notes": "Salt; Incense; Black Pepper",
+    "middle_notes": "Ylang-Ylang; Cypriol Oil or Nagarmotha; Indian Jasmine",
+    "base_notes": "Vanilla; Sandalwood; Moss"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Privé Charm'",
+    "release_year": "2017",
+    "accords": "woody; powdery; floral; iris; musky; earthy; citrus; patchouli; smoky; green",
+    "top_notes": "Iris; Floral Notes; Calabrian bergamot",
+    "middle_notes": "Green Tea; Guaiac Wood; Incense",
+    "base_notes": "White Musk; Patchouli; Vanilla"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Prive Fil Rouge",
+    "release_year": "2016",
+    "accords": "amber; musky; powdery; iris; aldehydic; animalic; citrus; violet; fresh; earthy",
+    "top_notes": "Aldehydes; Bergamot",
+    "middle_notes": "Iris; Angelica",
+    "base_notes": "Ambergris; White Musk"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Prive Jahwara Oriental",
+    "release_year": "2021",
+    "accords": "amber; woody; warm spicy; balsamic; sweet; smoky",
+    "top_notes": "Spices; Incense; Myrhh; Iris",
+    "middle_notes": "Opoponax; Labdanum; Ambroxan",
+    "base_notes": "Bourbon Vanilla; Amberwood; Guaiac Wood; Cedar"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Prive La Femme Bleue",
+    "release_year": "2011",
+    "accords": "iris; powdery; vanilla; woody; warm spicy; cacao; amber; violet; smoky; balsamic",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Iris; Vanille; Incense; Cacao; Woodsy Notes"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Prive Laque",
+    "release_year": "2019",
+    "accords": "white floral; aldehydic; woody; rose; fresh; soapy; animalic",
+    "top_notes": "Aldehydes",
+    "middle_notes": "White Flowers; Rose",
+    "base_notes": "Oriental Woodsy notes"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Privé Ombre & Lumiere",
+    "release_year": "2014",
+    "accords": "white floral; iris; powdery; floral; musky; amber; citrus; violet; earthy; woody",
+    "top_notes": "Bergamot; Freesia",
+    "middle_notes": "Jasmine; Iris",
+    "base_notes": "Ambroxan; Musk"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Privé Oud Royal",
+    "release_year": "2010",
+    "accords": "amber; oud; warm spicy; woody; smoky; balsamic; powdery; rose; metallic",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Agarwood (Oud); Incense; Sandalwood; Saffron; Amber; Rose"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Privé Oud Royal Collector",
+    "release_year": "2025",
+    "accords": "amber; warm spicy; oud; balsamic; smoky",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Myrrh; Incense; Oud; Amber; Spices"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Privé Rose d'Arabie",
+    "release_year": "2010",
+    "accords": "rose; patchouli; oud; woody; floral; warm spicy; earthy; vanilla; balsamic",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Rose; Patchouli; Agarwood (Oud); Vanille"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Prive Rose d'Arabie L'Or du Desert",
+    "release_year": "2013",
+    "accords": "rose; patchouli; woody; warm spicy; earthy; floral; balsamic",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Damask Rose; Patchouli; Saffron; Woodsy Notes; Amber"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Privé Rose d'Arabie Limited Edition 2018",
+    "release_year": "2018",
+    "accords": "rose; patchouli; woody; warm spicy; earthy; floral; balsamic",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Rose; Patchouli; Agarwood (Oud); Woody Notes; Saffron; Amber"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Prive Rose d'Arabie Limited Edition Swarovski",
+    "release_year": "2014",
+    "accords": "rose; patchouli; woody; warm spicy; earthy; floral; balsamic",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Damask Rose; Patchouli; Agarwood (Oud); Vanilla"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Prive Rouge Malachite",
+    "release_year": "2016",
+    "accords": "white floral; amber; tuberose; animalic; soft spicy; woody; yellow floral; sweet; musky",
+    "top_notes": "Tuberose; Pink Pepper; Clary Sage",
+    "middle_notes": "Tuberose; Jasmine Sambac; Ylang-Ylang; Benzoin; Cashmeran; Orange Blossom",
+    "base_notes": "Tuberose; Amber"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Armani Prive Vert Malachite",
+    "release_year": "2016",
+    "accords": "white floral; vanilla; yellow floral; citrus; sweet; soft spicy; amber",
+    "top_notes": "Bitter Orange; Petitgrain",
+    "middle_notes": "Jasmine Sambac; Ylang-Ylang; Pink Pepper",
+    "base_notes": "Lily; Vanilla; Benzoin"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Attitude Extreme",
+    "release_year": "2009",
+    "accords": "warm spicy; soft spicy; anis; coffee; woody; amber; citrus; aromatic; patchouli; powdery",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Star Anise; Coffee; Amber; Cardamom; Amalfi Lemon; Patchouli; Virginia Cedar"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Blanc Kogane",
+    "release_year": "2024",
+    "accords": "white floral; aldehydic; musky; fresh; powdery; woody; soapy; earthy; animalic; patchouli",
+    "top_notes": "Aldehydes; Indian Jasmine",
+    "middle_notes": "White Musk; Lily",
+    "base_notes": "Vetiver; Patchouli"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Bois d'Encens",
+    "release_year": "2004",
+    "accords": "woody; amber; warm spicy; aromatic; musky; earthy",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Labdanum; Spices; Cedar; Vetiver"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Cedre Olympe",
+    "release_year": "2009",
+    "accords": "woody; citrus; aromatic; amber; green; fresh spicy; balsamic",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Virginia Cedar; Bitter Orange; Pine; Bergamot; Resin; Petitgrain"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Cuir Amethyste",
+    "release_year": "2005",
+    "accords": "amber; woody; violet; powdery; leather; patchouli; warm spicy; smoky; vanilla; balsamic",
+    "top_notes": "Coriander; Rose; Bergamot",
+    "middle_notes": "Violet; Birch; Patchouli",
+    "base_notes": "Benzoin; Labdanum; Bourbon Vanilla"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Cuir Majeste",
+    "release_year": "2016",
+    "accords": "fruity; leather; sweet; rose; amber; smoky; tobacco; floral; oud; vanilla",
+    "top_notes": "Dried Fruits; Incense; Osmanthus",
+    "middle_notes": "Leather; May Rose; Tobacco",
+    "base_notes": "Agarwood (Oud); Vanilla; Moss; Ambroxan"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Cuir Noir",
+    "release_year": "2011",
+    "accords": "woody; vanilla; leather; amber; oud; powdery; warm spicy; animalic; rose; fresh spicy",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Leather; Vanille; Agarwood (Oud); Sandalwood; Benzoin; Rose; Guaiac Wood; Nutmeg; Ambergris; Coriander"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Cuir Nu",
+    "release_year": "2025",
+    "accords": "leather; coffee; warm spicy; amber; animalic; rose; smoky; vanilla; aromatic",
+    "top_notes": "Coffee; Cardamom",
+    "middle_notes": "Leather; Damask Rose",
+    "base_notes": "Tonka Bean; Amber; Labdanum"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Cuir Nu Edition Murano",
+    "release_year": "2026",
+    "accords": "amber; warm spicy; coffee; leather; animalic; rose; aromatic",
+    "top_notes": "Coffee; Cardamom",
+    "middle_notes": "Leather; Damask Rose",
+    "base_notes": "Amber; Labdanum; Tonka Bean"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Cuir Zerzura",
+    "release_year": "2020",
+    "accords": "iris; leather; woody; powdery; violet; animalic; earthy; vanilla; aromatic; ozonic",
+    "top_notes": "Violet Leaf; Elemi resin; Mandarin Orange",
+    "middle_notes": "Iris; Rose",
+    "base_notes": "Leather; Cedar; Bourbon Vanilla"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Cyprès Pantelleria",
+    "release_year": "2021",
+    "accords": "woody; aromatic; citrus; aquatic; earthy; fresh; fresh spicy; mossy; soft spicy",
+    "top_notes": "Citron; Bergamot; Neroli; Mandarin Orange",
+    "middle_notes": "Water Notes; Cypress; Clary Sage",
+    "base_notes": "Oakmoss; Vetiver; Amberwood; Patchouli"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Eau de Jade",
+    "release_year": "2004",
+    "accords": "citrus; fresh spicy; musky; aromatic; powdery; white floral; floral",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Bergamot; Tunisian Neroli; Musk; Pepper"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Eclat de Jasmin",
+    "release_year": "2007",
+    "accords": "woody; fruity; floral; white floral; citrus; aromatic; earthy; amber; patchouli; rose",
+    "top_notes": "Bergamot; Lemon",
+    "middle_notes": "Jasmine; Osmanthus; Plum; Rose",
+    "base_notes": "Tahitian Vetiver; Labdanum; Patchouli"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Emporio Armani Because It’s You",
+    "release_year": "2017",
+    "accords": "fruity; sweet; rose; vanilla; citrus; powdery; musky; amber; woody; floral",
+    "top_notes": "Raspberry; Lemon; Neroli",
+    "middle_notes": "Rose",
+    "base_notes": "Vanilla; Musk; Amberwood"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Emporio Armani City Glam for Her",
+    "release_year": "2005",
+    "accords": "fruity; floral; woody; rose; earthy; mossy; patchouli; musky; aromatic; soft spicy",
+    "top_notes": "Black Currant; Plum; Coriander",
+    "middle_notes": "Bulgarian Rose; Floral Notes",
+    "base_notes": "Oakmoss; Indian Patchouli; White Musk"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Emporio Armani City Glam for Him",
+    "release_year": "2005",
+    "accords": "green; fresh spicy; aromatic; citrus; fresh; earthy; woody; musky; mossy; powdery",
+    "top_notes": "Bitter Orange; Mint",
+    "middle_notes": "Ginger; Green Grass",
+    "base_notes": "Vetiver; White Musk; Oakmoss"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Emporio Armani Diamonds",
+    "release_year": "2007",
+    "accords": "fruity; woody; sweet; rose; vanilla; floral; fresh; tropical; patchouli; amber",
+    "top_notes": "Litchi; Raspberry",
+    "middle_notes": "Rose; Freesia; Patchouli; Cedar; Lily-of-the-Valley",
+    "base_notes": "Vanilla; Amber; Vetiver"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Emporio Armani Diamonds Black Carat for Her",
+    "release_year": "2011",
+    "accords": "vanilla; amber; floral; rose; warm spicy; balsamic; powdery",
+    "top_notes": "Freesia",
+    "middle_notes": "Rose",
+    "base_notes": "Benzoin; Vanilla"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Emporio Armani Diamonds Black Carat for Him",
+    "release_year": "2011",
+    "accords": "woody; amber; fresh spicy; cacao; warm spicy; citrus; aromatic; earthy; herbal",
+    "top_notes": "Sichuan Pepper; Bergamot",
+    "middle_notes": "Cacao; Benzoin",
+    "base_notes": "Guaiac Wood; Amber; Vetiver; Cedar; Oakmoss"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Emporio Armani Diamonds Club",
+    "release_year": "2016",
+    "accords": "citrus; aquatic; rose; patchouli; fresh; woody; warm spicy; earthy; floral; balsamic",
+    "top_notes": "Mandarin Orange; Water Notes",
+    "middle_notes": "Rose",
+    "base_notes": "Patchouli"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Emporio Armani Diamonds Club for Him",
+    "release_year": "2016",
+    "accords": "aromatic; warm spicy; aquatic; fresh spicy; fresh; lavender; floral; herbal; rose; green",
+    "top_notes": "Cardamom",
+    "middle_notes": "Water Notes; Hedione; Lavender",
+    "base_notes": "Geranium"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Emporio Armani Diamonds Eau de Toilette",
+    "release_year": "2009",
+    "accords": "rose; musky; aromatic; citrus; soft spicy; woody; earthy; powdery; floral; sweet",
+    "top_notes": "Pink Pepper; Bergamot",
+    "middle_notes": "Rose",
+    "base_notes": "Vetiver; Musk"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Emporio Armani Diamonds He Limited Edition",
+    "release_year": "2009",
+    "accords": "woody; citrus; fresh spicy; aromatic; cacao",
+    "top_notes": "Citruses; Sichuan Pepper; Bergamot",
+    "middle_notes": "Virginia Cedar; Cacao",
+    "base_notes": "Guaiac Wood; Vetiver"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Emporio Armani Diamonds Intense",
+    "release_year": "2008",
+    "accords": "fruity; woody; rose; floral; sweet; vanilla; fresh; patchouli; earthy; tropical",
+    "top_notes": "Raspberry; Litchi",
+    "middle_notes": "Rose; Freesia; Lily-of-the-Valley",
+    "base_notes": "Vanilla; Cedar; Patchouli; Vetiver"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Emporio Armani Diamonds Rocks",
+    "release_year": "2014",
+    "accords": "aromatic; fresh spicy; woody; marine; violet; citrus; powdery; fresh; fruity; salty",
+    "top_notes": "Grapefruit; Black Pepper; Apple",
+    "middle_notes": "Sea Notes; Violet; Geranium",
+    "base_notes": "Guaiac Wood; Cedar; Vetiver"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Emporio Armani Diamonds Rose",
+    "release_year": "2013",
+    "accords": "fruity; rose; floral; citrus; sweet; woody; aromatic; patchouli; musky; fresh spicy",
+    "top_notes": "Raspberry; Black Currant; Bergamot",
+    "middle_notes": "Rose; Freesia; Lily-of-the-Valley",
+    "base_notes": "Ambrette (Musk Mallow); Patchouli"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Emporio Armani Diamonds Summer Fraiche for Men",
+    "release_year": "2012",
+    "accords": "aquatic; marine; woody; cacao; aromatic; fresh; warm spicy; salty",
+    "top_notes": "Watery Notes",
+    "middle_notes": "Sea Notes",
+    "base_notes": "Cedar; Cacao"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Emporio Armani Diamonds Summer Fraiche for Women",
+    "release_year": "2012",
+    "accords": "fresh; aquatic; floral; fruity; amber; rose",
+    "top_notes": "Watery Notes; Green Apple",
+    "middle_notes": "Peony",
+    "base_notes": "Amber"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Emporio Armani Diamonds Violet",
+    "release_year": "2015",
+    "accords": "sweet; fruity; violet; powdery; fresh; vanilla; tropical; rose; patchouli; woody",
+    "top_notes": "Raspberry; Litchi; Passionfruit",
+    "middle_notes": "Violet; Bulgarian Rose; Lily-of-the-Valley",
+    "base_notes": "Praline; Vanilla; Patchouli"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Emporio Armani Diamonds for Men",
+    "release_year": "2008",
+    "accords": "woody; cacao; citrus; fresh spicy; warm spicy; amber; aromatic; powdery",
+    "top_notes": "Bergamot; Guaiac Wood",
+    "middle_notes": "Sichuan Pepper; Cedar; Vetiver",
+    "base_notes": "Cacao; Amber"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Emporio Armani Diamonds for Men Summer Edition",
+    "release_year": "2010",
+    "accords": "aromatic; cacao; citrus; marine; green; warm spicy; floral; woody; fresh spicy; salty",
+    "top_notes": "Amalfi Lemon; Mint",
+    "middle_notes": "Sea water; Floral Notes",
+    "base_notes": "Cacao; Woodsy Notes"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Emporio Armani Diamonds for Women Summer Edition",
+    "release_year": "2010",
+    "accords": "fruity; rose; floral; fresh; musky; sweet; woody; tropical; amber; powdery",
+    "top_notes": "Litchi; Raspberry",
+    "middle_notes": "Rose; Peony",
+    "base_notes": "Musk; Woodsy Notes; Amber"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Emporio Armani For Her 2008",
+    "release_year": "2008",
+    "accords": "powdery; vanilla; woody; violet; musky; citrus; sweet; iris; floral; white floral",
+    "top_notes": "Bergamot; Pear; Pineapple; Mandarin Orange",
+    "middle_notes": "Iris; Heliotrope; Jasmine; Violet",
+    "base_notes": "Vanilla; Musk; Cedar"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Emporio Armani For Him 2008",
+    "release_year": "2008",
+    "accords": "aromatic; citrus; woody; musky; fresh spicy; warm spicy; powdery; green; earthy; herbal",
+    "top_notes": "Bergamot",
+    "middle_notes": "Vetiver; Yuzu; Cardamom; Sage",
+    "base_notes": "Musk; Cedar; Tonka Bean"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Emporio Armani He",
+    "release_year": "2020",
+    "accords": "aromatic; powdery; woody; citrus; musky; fresh spicy; warm spicy; iris; floral; sweet",
+    "top_notes": "Yuzu; Sage; Cardamom",
+    "middle_notes": "Nutmeg; Orris Root; Rose",
+    "base_notes": "White Musk; Sandalwood; Vetiver; Tonka Bean"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Emporio Armani In Love With You",
+    "release_year": "2019",
+    "accords": "fruity; sweet; patchouli; woody; rose; cherry; warm spicy; floral; white floral; aromatic",
+    "top_notes": "Raspberry; Black Currant; Sour Cherry",
+    "middle_notes": "Rose; Jasmine; Wormwood",
+    "base_notes": "Patchouli"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Emporio Armani In Love With You Freeze",
+    "release_year": "2020",
+    "accords": "woody; patchouli; citrus; floral; fresh; earthy; white floral; cherry; sweet; warm spicy",
+    "top_notes": "Cherry; Mandarin Orange; Bergamot; Pear",
+    "middle_notes": "Peony; Jasmine Sambac; Lily-of-the-Valley",
+    "base_notes": "Patchouli; Woody Notes; White Musk; Vetiver"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Emporio Armani Lei",
+    "release_year": "1998",
+    "accords": "powdery; vanilla; woody; sweet; citrus; almond; white floral; fruity; amber; musky",
+    "top_notes": "Lime; Tuberose; Bergamot; Pear; Mandarin Orange; Pineapple",
+    "middle_notes": "Heliotrope; Orris Root; Jasmine; Lily-of-the-Valley",
+    "base_notes": "Sandalwood; Vanilla; Musk; Almond; Tonka Bean; Cedar; Amber"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Emporio Armani Lui",
+    "release_year": "1998",
+    "accords": "woody; citrus; aromatic; powdery; fresh spicy; fruity; sweet; warm spicy; musky; floral",
+    "top_notes": "Sage; Yuzu; Apple; Bergamot; Lemon; Pineapple; Mandarin Orange; Cardamom",
+    "middle_notes": "Nutmeg; Orris Root; Cyclamen; Jasmine; Rose",
+    "base_notes": "Sandalwood; Oakmoss; Cedar; Tonka Bean; Musk; Amber"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Emporio Armani Night",
+    "release_year": "2003",
+    "accords": "woody; powdery; warm spicy; aromatic; citrus; vanilla; violet; musky; patchouli; sweet",
+    "top_notes": "Grapefruit; Mandarin Orange; Bergamot",
+    "middle_notes": "Violet; Cardamom; Sage",
+    "base_notes": "Tonka Bean; Cedar; Musk; Sandalwood; Patchouli; Vanilla"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Emporio Armani Night",
+    "release_year": "2003",
+    "accords": "floral; fruity; woody; aromatic; fresh; fresh spicy; powdery; soft spicy; green; musky",
+    "top_notes": "Cranberry; Cassia; Black Currant; Hawthorn; Bergamot",
+    "middle_notes": "Peony; Orchid; Magnolia; Freesia; Cyclamen; Jasmine; Lily-of-the-Valley",
+    "base_notes": "Sandalwood; White Musk; Myrtle; Patchouli"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Emporio Armani Red Pour Elle (White)",
+    "release_year": "2007",
+    "accords": "citrus; fresh spicy; green; woody; musky; aromatic; fruity; fresh; powdery",
+    "top_notes": "Bergamot; Mandarin Orange; Black Currant",
+    "middle_notes": "Ginger; Mint; Fig Leaf",
+    "base_notes": "Musk; White Woods"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Emporio Armani Red Pour Lui (White)",
+    "release_year": "2007",
+    "accords": "fresh spicy; citrus; aromatic; fresh; woody",
+    "top_notes": "Citruses; Bergamot",
+    "middle_notes": "Caraway; Rosemary",
+    "base_notes": ""
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Emporio Armani She",
+    "release_year": "2020",
+    "accords": "powdery; musky; almond; vanilla; amber; sweet; fruity; citrus; woody; warm spicy",
+    "top_notes": "Citruses; Pear",
+    "middle_notes": "Heliotrope; Cardamom; Angelica; Jasmine",
+    "base_notes": "White Musk; Almond; Cedar; Vanilla; Amber"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Emporio Armani Stronger With You",
+    "release_year": "2017",
+    "accords": "vanilla; sweet; balsamic; nutty; aromatic; powdery; lavender; herbal; soft spicy; warm spicy",
+    "top_notes": "Chestnut; Sugar",
+    "middle_notes": "Sage; Lavender",
+    "base_notes": "Vanilla; Smoke"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Emporio Armani Stronger With You Absolutely",
+    "release_year": "2021",
+    "accords": "vanilla; woody; balsamic; rum; aromatic; warm spicy; nutty; powdery; lavender; sweet",
+    "top_notes": "Rum; elemi; Bergamot",
+    "middle_notes": "Lavender; Davana",
+    "base_notes": "Madagascar Vanilla; Chestnut; Cedar; Patchouli"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Emporio Armani Stronger With You Amber",
+    "release_year": "2023",
+    "accords": "amber; vanilla; lavender; powdery; animalic",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Amber; Madagascar Vanilla; Lavender"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Emporio Armani Stronger With You Freeze",
+    "release_year": "2020",
+    "accords": "citrus; fresh spicy; woody; aromatic; sweet; vanilla; warm spicy; fruity; fresh; amber",
+    "top_notes": "Lime; Ginger; Apple; Mandarin Orange",
+    "middle_notes": "Lavender; Cardamom; Bourbon Geranium; Sage",
+    "base_notes": "Bourbon Vanilla; Amberwood; Marron glace; Guaiac Wood"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Emporio Armani Stronger With You Intensely",
+    "release_year": "2019",
+    "accords": "vanilla; sweet; amber; cinnamon; warm spicy; powdery; aromatic; soft spicy; caramel",
+    "top_notes": "Pink Pepper; Juniper; Violet",
+    "middle_notes": "Toffee; Cinnamon; Lavender; Sage",
+    "base_notes": "Vanilla; Amber; Tonka Bean; Suede"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Emporio Armani Stronger With You Leather",
+    "release_year": "2020",
+    "accords": "vanilla; leather; balsamic; warm spicy; aromatic; animalic; woody; nutty; powdery; smoky",
+    "top_notes": "Chestnut; Spices; elemi",
+    "middle_notes": "Lavender; Sage",
+    "base_notes": "Vanilla; Leather; Guaiac Wood; Agarwood (Oud)"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Emporio Armani Stronger With You Limited Edition",
+    "release_year": "2023",
+    "accords": "sweet; vanilla; soft spicy; amber; nutty; aromatic; warm spicy; powdery; herbal; musky",
+    "top_notes": "Pink Pepper; Cardamom",
+    "middle_notes": "Sage",
+    "base_notes": "Vanilla; Marron glace; Amber"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Emporio Armani Stronger With You Only",
+    "release_year": "2022",
+    "accords": "vanilla; citrus; fresh spicy; aromatic; lavender; balsamic; amber; nutty; powdery; warm spicy",
+    "top_notes": "Grapefruit",
+    "middle_notes": "Lavender; Geranium",
+    "base_notes": "Vanilla; Chestnut; Labdanum"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Emporio Armani Stronger With You Oud",
+    "release_year": "2022",
+    "accords": "oud; vanilla; lavender; fresh spicy; powdery; aromatic; sweet",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Vanilla; Agarwood (Oud); Lavender Extract"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Emporio Armani Stronger With You Parfum",
+    "release_year": "2025",
+    "accords": "vanilla; lavender; soft spicy; warm spicy; nutty; balsamic; aromatic; sweet; leather; citrus",
+    "top_notes": "Pink Pepper; Mandarin",
+    "middle_notes": "Lavender; Cinnamon; Sage",
+    "base_notes": "Chestnut; Vanilla; Leather"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Emporio Armani Stronger With You Powerfully",
+    "release_year": "2026",
+    "accords": "warm spicy; cherry; vanilla; amber; nutty; sweet; woody; balsamic; lavender; powdery",
+    "top_notes": "Cherry; Mandarin Orange",
+    "middle_notes": "Spices; Lavender",
+    "base_notes": "Chestnut; Vanilla; Amberwood"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Emporio Armani Stronger With You Sandalwood",
+    "release_year": "2025",
+    "accords": "woody; warm spicy; powdery; lavender; vanilla; balsamic; aromatic; nutty",
+    "top_notes": "Saffron",
+    "middle_notes": "Lavender; Chestnut",
+    "base_notes": "Sandalwood; Vanilla; Cedarwood"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Emporio Armani Stronger With You Spices",
+    "release_year": "2026",
+    "accords": "warm spicy; vanilla; fresh spicy; sweet; amber; leather; fruity; powdery; cinnamon; citrus",
+    "top_notes": "Black Pepper; Mandarin; Bergamot",
+    "middle_notes": "Saffron; Cinnamon; Clove; Apricot; Lavender",
+    "base_notes": "Bourbon Vanilla; Chestnut; Amber; Dates; Leather"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Emporio Armani Stronger With You Tobacco",
+    "release_year": "2024",
+    "accords": "warm spicy; amber; tobacco; vanilla; sweet; aromatic; soft spicy; balsamic; fresh spicy; woody",
+    "top_notes": "Pink Pepper; Black Pepper; Cardamom; elemi; Sage",
+    "middle_notes": "Tobacco; Chestnut; Cinnamon Leaf; Chili Pepper",
+    "base_notes": "Bourbon Vanilla; Amber; Guaiac Wood; Benzoin"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Emporio Armani White For Her",
+    "release_year": "2001",
+    "accords": "citrus; green; woody; fresh spicy; aromatic; musky; fruity; fresh; powdery; iris",
+    "top_notes": "Bergamot; Orange; Mandarin Orange; Cassia; Black Currant",
+    "middle_notes": "Ginger; Iris; Fig Leaf; Mint; Cloves",
+    "base_notes": "White Musk; White Wood"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Emporio Armani White For Him",
+    "release_year": "2001",
+    "accords": "citrus; aromatic; fresh spicy; musky; herbal; powdery",
+    "top_notes": "Bergamot; Mandarin Orange; Orange; Lemon",
+    "middle_notes": "Chamomile; Rosemary; Cardamom",
+    "base_notes": "Musk"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Emporio Remix for Her",
+    "release_year": "2006",
+    "accords": "floral; fruity; powdery; fresh; sweet; woody; soft spicy",
+    "top_notes": "Pear; Cranberry; Star Anise",
+    "middle_notes": "Freesia; Peony; Magnolia; Clover; Heliotrope; Cloves",
+    "base_notes": "Musk; Sandalwood; Cedar"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Emporio Remix for Him",
+    "release_year": "2006",
+    "accords": "soft spicy; fresh spicy; aromatic; warm spicy; anis; woody; citrus; floral; powdery; green",
+    "top_notes": "Star Anise; Bergamot; Basil",
+    "middle_notes": "Nutmeg; Cardamom; Lily-of-the-Valley",
+    "base_notes": "Vetiver; Licorice; Cloves; White Musk"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Encens Satin",
+    "release_year": "2014",
+    "accords": "amber; smoky; warm spicy; woody; balsamic",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Incense; Amber; Woodsy Notes; Spices"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Figuier Eden",
+    "release_year": "2012",
+    "accords": "green; fruity; citrus; fresh; sweet; woody; iris; powdery; soft spicy; fresh spicy",
+    "top_notes": "Bergamot; Pink Pepper; Mandarin Orange",
+    "middle_notes": "Fig; Tea; Grass",
+    "base_notes": "Iris; Amber"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Gardénia Antigua",
+    "release_year": "2020",
+    "accords": "white floral; musky; yellow floral; animalic; citrus; sweet; lactonic; amber; woody",
+    "top_notes": "Neroli; Mandarin Orange; Pink Pepper",
+    "middle_notes": "Gardenia; Ylang-Ylang; Jasmine",
+    "base_notes": "White Musk; Ambergris; Patchouli"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Giò",
+    "release_year": "1992",
+    "accords": "white floral; warm spicy; woody; floral; amber; tuberose; powdery; citrus; animalic; green",
+    "top_notes": "Jasmine; Hyacinth; Sicilian Mandarin; Red Rose; Brazilian Rosewood; Bergamot; Violet",
+    "middle_notes": "Tuberose; Gardenia; Carnation; Cloves; Peach; Orange Blossom; White Flowers; Myrrh; Ylang-Ylang; Iris; Orris Root; Cassia; Lily-of-the-Valley",
+    "base_notes": "Amber; Sandalwood; Styrax; Vanilla; Musk; Cedar"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Haute Couture en Jeu",
+    "release_year": "2024",
+    "accords": "fresh spicy; rose; aromatic; musky; floral; herbal; citrus; powdery; green; amber",
+    "top_notes": "Basil; Bergamot",
+    "middle_notes": "Damask Rose; Geranium; Iris",
+    "base_notes": "Ambrette; White Musk; Amber; Cedar"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Idole d'Armani",
+    "release_year": "2009",
+    "accords": "fruity; sweet; citrus; fresh spicy; fresh; warm spicy; woody; aromatic; earthy; honey",
+    "top_notes": "Ginger; Pear; Clementine; Honey; Bitter Orange; Almond; Artemisia",
+    "middle_notes": "Saffron; Jasmine; Rose",
+    "base_notes": "Vetiver; Patchouli; Styrax"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Idole d'Armani Eau de Toilette",
+    "release_year": "2010",
+    "accords": "amber; citrus; fresh spicy; fresh; white floral; patchouli; woody; warm spicy; balsamic; earthy",
+    "top_notes": "Ginger; Bitter Orange",
+    "middle_notes": "Jasmine",
+    "base_notes": "Patchouli; Amber; Styrax"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Ikat Bleu",
+    "release_year": "2020",
+    "accords": "powdery; vanilla; woody; iris; musky; smoky; balsamic; amber; soft spicy; warm spicy",
+    "top_notes": "Pink Pepper; Bergamot",
+    "middle_notes": "Incense; Iris; Patchouli",
+    "base_notes": "Black Vanilla Husk; Musk; Guaiac Wood"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Ikat Rouge",
+    "release_year": "2020",
+    "accords": "amber; woody; citrus; powdery; smoky; iris; balsamic; warm spicy",
+    "top_notes": "Bergamot; Incense; Labdanum",
+    "middle_notes": "Iris; Patchouli",
+    "base_notes": "Amber; Guaiac Wood"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Indigo Tanzanite",
+    "release_year": "2022",
+    "accords": "amber; warm spicy; patchouli; woody; almond; powdery; balsamic; vanilla; lactonic; sweet",
+    "top_notes": "Almond; Bergamot",
+    "middle_notes": "Heliotrope; Milk",
+    "base_notes": "Patchouli; Labdanum; Benzoin; Tolu Balsam"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Iris Bleu",
+    "release_year": "2025",
+    "accords": "white floral; citrus; musky; woody; green; powdery; aromatic; floral; fresh spicy",
+    "top_notes": "Bergamot; Galbanum; Lemon",
+    "middle_notes": "Iris Butter; Jasmine",
+    "base_notes": "White Musk; Virginia Cedar; Guaiac Wood"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Iris Celadon",
+    "release_year": "2017",
+    "accords": "warm spicy; iris; musky; patchouli; powdery; woody; earthy; aromatic; chocolate; violet",
+    "top_notes": "Iris; Cardamom; Aldehydes; Bergamot",
+    "middle_notes": "Iris; Chocolate; Mate",
+    "base_notes": "Patchouli; Musk; Ambrette (Musk Mallow)"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Jasmin Kusamono",
+    "release_year": "2020",
+    "accords": "white floral; fresh; woody; fruity; green",
+    "top_notes": "Nashi Pear; Pink Pepper",
+    "middle_notes": "Lily-of-the-Valley; Jasmine Sambac; Orange Blossom",
+    "base_notes": "Sandalwood; Cedar"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "La Femme Nacre",
+    "release_year": "2012",
+    "accords": "iris; powdery; musky; earthy; violet; woody",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Iris; Orris Root; Musk"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Light di Gioia",
+    "release_year": "2019",
+    "accords": "white floral; citrus; musky; woody; lactonic",
+    "top_notes": "Bergamot",
+    "middle_notes": "Gardenia; Jasmine",
+    "base_notes": "White Musk; Woodsy Notes"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Lumières",
+    "release_year": "2025",
+    "accords": "powdery; aldehydic; musky; iris; fresh; warm spicy; violet; earthy; metallic; soapy",
+    "top_notes": "Aldehydes; Bergamot",
+    "middle_notes": "Iris; Saffron",
+    "base_notes": "Musk; Amber"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Magenta Tanzanite",
+    "release_year": "2022",
+    "accords": "warm spicy; vanilla; sweet; tobacco; amber; cinnamon; aromatic; coffee; fresh spicy",
+    "top_notes": "Cardamom; Ginger; Bergamot",
+    "middle_notes": "Cinnamon; Myrrh; Coffee",
+    "base_notes": "Tobacco; Vanilla; Tonka Bean"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Mania",
+    "release_year": "1999",
+    "accords": "warm spicy; amber; powdery; fresh spicy; woody; musky; citrus; vanilla; white floral; iris",
+    "top_notes": "Labdanum; Vanilla; Orange Blossom; Bergamot",
+    "middle_notes": "Saffron; Nutmeg; Cloves; Amber",
+    "base_notes": "White Musk; Guaiac Wood; Vanilla; Iris"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Musc Shamal",
+    "release_year": "2019",
+    "accords": "musky; powdery; aldehydic; fresh; rose; amber; vanilla; woody; white floral; animalic",
+    "top_notes": "Aldehydes; Citruses",
+    "middle_notes": "Musk; Rose; Jasmine",
+    "base_notes": "Amber; Vanilla; Cedar"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "My Way",
+    "release_year": "2020",
+    "accords": "white floral; tuberose; citrus; animalic; vanilla",
+    "top_notes": "Orange Blossom; Bergamot",
+    "middle_notes": "Tuberose; Indian Jasmine",
+    "base_notes": "Madagascar Vanilla; White Musk; Virginian Cedar"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "My Way Floral",
+    "release_year": "2022",
+    "accords": "citrus; white floral; tuberose; animalic; sweet; vanilla",
+    "top_notes": "Orange Blossom; Green Mandarin; Bitter Orange",
+    "middle_notes": "Indian Tuberose; Tunisian Neroli",
+    "base_notes": "Bourbon Vanilla; White Musk"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "My Way Hair & Body Mist",
+    "release_year": "2023",
+    "accords": "white floral; citrus; tuberose; woody; powdery; musky; animalic; fresh spicy",
+    "top_notes": "Bergamot; Orange Blossom",
+    "middle_notes": "Tuberose; Jasmine",
+    "base_notes": "White Musk; Virginia Cedar; Madagascar Vanilla"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "My Way Intense",
+    "release_year": "2021",
+    "accords": "white floral; tuberose; citrus; vanilla; animalic; woody; powdery; sweet",
+    "top_notes": "Orange Blossom; Bitter Orange",
+    "middle_notes": "Indian Tuberose; Tuberose",
+    "base_notes": "Madagascar Vanilla; Sandalwood"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "My Way Nacre",
+    "release_year": "2022",
+    "accords": "white floral; citrus; tuberose; woody; powdery; animalic; musky",
+    "top_notes": "Orange Blossom; Bergamot",
+    "middle_notes": "Tuberose; Jasmine",
+    "base_notes": "Cedar; White Musk; Vanilla"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "My Way Nectar",
+    "release_year": "2024",
+    "accords": "white floral; citrus; sweet; tuberose; fruity; aquatic; animalic; ozonic; green; powdery",
+    "top_notes": "Pear; Orange Blossom; Bergamot",
+    "middle_notes": "Tuberose; Jasmine; Violet Leaf",
+    "base_notes": "White Musk; Bourbon Vanilla; Cedarwood"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "My Way Parfum",
+    "release_year": "2023",
+    "accords": "white floral; citrus; musky; tuberose; powdery; animalic; vanilla; floral; woody; sweet",
+    "top_notes": "Orange Blossom; Bitter Orange; Calabrian bergamot",
+    "middle_notes": "Iris Pallida; Indian Tuberose; Ambrette (Musk Mallow)",
+    "base_notes": "White Musk; Bourbon Vanilla; Cedar"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "My Way Sunny Vanilla",
+    "release_year": "2025",
+    "accords": "white floral; tuberose; sweet; fruity; vanilla; tropical; animalic; powdery",
+    "top_notes": "Pineapple; Bergamot",
+    "middle_notes": "Tuberose; Jasmine",
+    "base_notes": "Vanilla; Musk"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "My Way Ylang",
+    "release_year": "2024",
+    "accords": "sweet; tropical; white floral; yellow floral; fruity; coconut; woody; vanilla; citrus; tuberose",
+    "top_notes": "Mango; Coconut; Orange Blossom; Bergamot",
+    "middle_notes": "Ylang Ylang; Tuberose",
+    "base_notes": "Vanilla; White Musk; Cedarwood"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Myrrhe Impériale",
+    "release_year": "2013",
+    "accords": "amber; warm spicy; vanilla; balsamic; sweet",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Myrhh; Amber; Benzoin; Vanila; Saffron; Pink Pepper"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "New York",
+    "release_year": "2017",
+    "accords": "musky; powdery; fresh; vanilla; amber; floral; aldehydic; iris; fresh spicy; woody",
+    "top_notes": "Aldehydes; White Pepper; Neroli Essence",
+    "middle_notes": "Iris; White Tea; Ambrette (Musk Mallow); Peony",
+    "base_notes": "Vanilla; White Musk; Incense; Cashmeran"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Noir Kogane",
+    "release_year": "2024",
+    "accords": "leather; aromatic; tobacco; woody; animalic; earthy; warm spicy; sweet; balsamic; smoky",
+    "top_notes": "Tobacco; Haitian Vetiver",
+    "middle_notes": "elemi; Saffron",
+    "base_notes": "Leather"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Nuances",
+    "release_year": "2013",
+    "accords": "powdery; woody; warm spicy; iris; vanilla; earthy; amber; aromatic; cinnamon; citrus",
+    "top_notes": "Cinnamon; Bergamot",
+    "middle_notes": "Orris Root; Heliotrope",
+    "base_notes": "Sandalwood; Benzoin; Vetiver"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Ocean di Gioia",
+    "release_year": "2020",
+    "accords": "white floral; green; fresh; fruity; citrus; sweet; musky; aquatic; salty; powdery",
+    "top_notes": "Pear; Green Notes; Citruses",
+    "middle_notes": "Water Jasmine; Lily-of-the-Valley; Salt; Rose",
+    "base_notes": "Musk; Sandalwood"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Onde Extase",
+    "release_year": "2008",
+    "accords": "yellow floral; woody; powdery; floral; white floral; green; aromatic; mossy; earthy; sweet",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Mimosa; Narcissus; Sesame; Cedar; Jasmine; Oakmoss; Pink Pepper; Bergamot"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Onde Mystere",
+    "release_year": "2008",
+    "accords": "amber; warm spicy; musky; powdery; rose; smoky; vanilla; balsamic",
+    "top_notes": "Amber; Musk; Moroccan Rose",
+    "middle_notes": "Incense; Vanilla Absolute",
+    "base_notes": "Spicy Notes"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Onde Vertige",
+    "release_year": "2008",
+    "accords": "floral; white floral; tropical; soft spicy; balsamic; patchouli; amber; warm spicy; lactonic; smoky",
+    "top_notes": "Jasmine; Frangipani",
+    "middle_notes": "Licorice",
+    "base_notes": "Incense; Patchouli"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Orange Méditerranée",
+    "release_year": "2025",
+    "accords": "citrus; fresh spicy; aromatic; fresh; rose",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Bitter Orange; Citron; Pelargonium; Tea; Lemon Peel; Bergamot; Fennel; Bay Leaf; Geranium"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Oranger Alhambra",
+    "release_year": "2008",
+    "accords": "citrus; aromatic; fresh spicy; woody; mossy; white floral; herbal; earthy",
+    "top_notes": "Petitgrain; Bitter Orange; Lemon; Bergamot",
+    "middle_notes": "Jasmine; Marjoram; Rosemary",
+    "base_notes": "Oakmoss; Patchouli"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Orangerie Venise",
+    "release_year": "2019",
+    "accords": "citrus; fresh; aromatic; fresh spicy; woody",
+    "top_notes": "Bitter Orange; Citruses; Bergamot",
+    "middle_notes": "Neroli; Buchu or Agathosma",
+    "base_notes": "Ambroxan; Cedar; Moss"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Oud Nacré",
+    "release_year": "2025",
+    "accords": "warm spicy; woody; white floral; oud; patchouli; amber; metallic; earthy; leather; musky",
+    "top_notes": "Saffron; Jasmine",
+    "middle_notes": "Oud; Patchouli",
+    "base_notes": "Vanillin; Sandal; Ambroxan"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Pierre de Lune",
+    "release_year": "2004",
+    "accords": "violet; woody; powdery; iris; earthy; aromatic; fruity; fresh; green; soft spicy",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Violet; Iris; Woodsy Notes; Cassia"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Pivoine Suzhou",
+    "release_year": "2014",
+    "accords": "rose; floral; fruity; fresh; sweet; musky; citrus; soft spicy; powdery",
+    "top_notes": "Raspberry; Pink Pepper; Mandarin Orange",
+    "middle_notes": "Peony; May Rose; Rose",
+    "base_notes": "Musk; Amber; Patchouli"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Pivoine Suzhou Soie de Nacre",
+    "release_year": "2016",
+    "accords": "rose; floral; fresh; fruity; sweet; musky; citrus; amber; soft spicy; powdery",
+    "top_notes": "Raspberry; Pink Pepper; Mandarin Orange",
+    "middle_notes": "Peony; May Rose; Rose",
+    "base_notes": "Musk; Amber; Patchouli"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Power Of You",
+    "release_year": "2026",
+    "accords": "tropical; vanilla; sweet; fruity; citrus; fresh; floral; powdery; amber",
+    "top_notes": "Passionfruit; Bitter Orange; Lemon",
+    "middle_notes": "Frangipani; Solar Notes",
+    "base_notes": "Madagascar Vanilla; Benzoin; Labdanum"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Rondò Armaniano",
+    "release_year": "2023",
+    "accords": "woody; powdery; musky; lavender; warm spicy; patchouli; aromatic; iris; earthy; vanilla",
+    "top_notes": "Lavender",
+    "middle_notes": "Sage; Rose",
+    "base_notes": "Sandalwood; Patchouli; Musk; Iris; Vanilla"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Rose Alexandrie",
+    "release_year": "2008",
+    "accords": "citrus; rose; floral; yellow floral; white floral; fresh spicy; powdery; green",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Neroli; Rose; Mimosa; Mandarin Orange; Bergamot"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Rose Milano",
+    "release_year": "2020",
+    "accords": "rose; citrus; earthy; mossy; woody; floral; patchouli; fruity; white floral; fresh",
+    "top_notes": "Pear; Bergamot; Lemon",
+    "middle_notes": "Rose; Jasmine",
+    "base_notes": "Moss; Patchouli"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Rose Milano Soie de Nacre",
+    "release_year": "2023",
+    "accords": "citrus; rose; white floral; earthy; mossy; woody; floral; patchouli; aromatic; fresh spicy",
+    "top_notes": "Lemon; Bergamot",
+    "middle_notes": "Damask Rose; Jasmine",
+    "base_notes": "Oakmoss; Patchouli"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Rose d'Artiste",
+    "release_year": "2018",
+    "accords": "amber; violet; powdery; iris; citrus; white floral; musky; earthy; balsamic; woody",
+    "top_notes": "Orange Blossom; Bergamot",
+    "middle_notes": "Iris; Violet; Incense",
+    "base_notes": "Ambroxan; Myrhh"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Rouge Malachite Limited Edition L'Or de Russie",
+    "release_year": "2017",
+    "accords": "white floral; amber; tuberose; animalic; soft spicy; sweet; woody; yellow floral; musky",
+    "top_notes": "Tuberose; Pink Pepper; Clary Sage",
+    "middle_notes": "Tuberose; Orange Blossom; Ylang-Ylang; Jasmine Sambac; Cashmeran; Benzoin",
+    "base_notes": "Tuberose; Amber"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Sable Fume",
+    "release_year": "2015",
+    "accords": "amber; balsamic; musky; iris; smoky; powdery; warm spicy",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Resins; Incense; Ambroxan; Orris; Suede; Benzoin"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Sable Nuit",
+    "release_year": "2021",
+    "accords": "amber; woody; warm spicy; vanilla; soft spicy; musky; balsamic; fresh spicy",
+    "top_notes": "Olibanum; Pink Pepper",
+    "middle_notes": "Cedar; Benzoin; Labdanum; Patchouli",
+    "base_notes": "Olibanum; Vanilla; Ambroxan"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Sable Or",
+    "release_year": "2015",
+    "accords": "powdery; vanilla; warm spicy; woody; amber; iris; violet; cacao; sweet; balsamic",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Tuscan Iris; Sandalwood; Tonka Bean; Vanilla; Cacao; Benzoin; Violet"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Santal Dan Sha",
+    "release_year": "2022",
+    "accords": "woody; warm spicy; aromatic; powdery; fresh spicy; balsamic; citrus; amber; ozonic; musky",
+    "top_notes": "Guatemalan Cardamom; Calabrian bergamot; Violet Leaf",
+    "middle_notes": "elemi; Olibanum; Musk",
+    "base_notes": "Sandalwood; Virginia Cedar; Dreamwood"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Sensi",
+    "release_year": "2002",
+    "accords": "white floral; sweet; almond; nutty; amber; woody; fruity; citrus; balsamic; warm spicy",
+    "top_notes": "Black locust; Lime",
+    "middle_notes": "Almond; Wheat; Jasmine",
+    "base_notes": "Benzoin; Brazilian Rosewood"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Sensi Jewel",
+    "release_year": "2004",
+    "accords": "amber; white floral; yellow floral; citrus; sweet; woody; balsamic; floral; powdery; warm spicy",
+    "top_notes": "Mimosa",
+    "middle_notes": "Jasmine; Orange",
+    "base_notes": "Benzoin; Brazilian Rosewood"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Sensi White Notes",
+    "release_year": "2004",
+    "accords": "floral; citrus; white floral; woody; green; fruity; aromatic; soft spicy; fresh; amber",
+    "top_notes": "Lime; Lemon; Black Currant; Mandarin Orange; Cassia",
+    "middle_notes": "Freesia; Water Hyacinth; Lily; Lily-of-the-Valley; Jasmine; Rose",
+    "base_notes": "Benzoin; Brazilian Rosewood; Mahogany"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Si",
+    "release_year": "2013",
+    "accords": "woody; vanilla; aromatic; soft spicy; fruity; green; floral; rose; patchouli; earthy",
+    "top_notes": "Cassis",
+    "middle_notes": "May Rose; Freesia",
+    "base_notes": "Vanilla; Patchouli; Woody Notes; Ambroxan"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Si Eau de Parfum Intense",
+    "release_year": "2023",
+    "accords": "fruity; vanilla; rose; green; floral; soft spicy; aromatic; powdery; woody; sweet",
+    "top_notes": "Black Currant",
+    "middle_notes": "May Rose; Davana",
+    "base_notes": "Bourbon Vanilla; Vanilla; Black Tea"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Si Eau de Toilette",
+    "release_year": "2015",
+    "accords": "fruity; floral; sweet; woody; citrus; rose; soft spicy; vanilla; musky",
+    "top_notes": "Black Currant; Pear; Mandarin Orange; Neroli; Bergamot",
+    "middle_notes": "Freesia; May Rose; Strawberry; Mango; Jasmine; Osmanthus",
+    "base_notes": "Vanilla; Musk; Patchouli; Woody Notes; Amber"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Si Edition Limitée Eau de Parfum",
+    "release_year": "2020",
+    "accords": "woody; floral; aromatic; soft spicy; green; fruity; amber; patchouli; rose; vanilla",
+    "top_notes": "Currant buds",
+    "middle_notes": "Freesia; Rose",
+    "base_notes": "Woody Notes; Vanilla; Patchouli; Ambroxan"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Sì Fiori",
+    "release_year": "2019",
+    "accords": "vanilla; fruity; citrus; powdery; rose; musky; floral; woody; soft spicy; white floral",
+    "top_notes": "Black Currant; Green Mandarin",
+    "middle_notes": "Neroli; Rose; Patchouli; Oakmoss",
+    "base_notes": "Vanilla; White Musk"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Si Golden Bow",
+    "release_year": "2015",
+    "accords": "woody; citrus; fruity; vanilla; white floral; rose; floral; powdery; amber; patchouli",
+    "top_notes": "Blackcurrant Syrup; Sicilian Bergamot; Mandarin Orange",
+    "middle_notes": "Rose; Egyptian Jasmine; Neroli",
+    "base_notes": "Vanilla; Patchouli; Amber; White Woods; Musk"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Si Hair Mist",
+    "release_year": "2017",
+    "accords": "fruity; woody; floral; soft spicy; vanilla; aromatic; rose; amber; green; patchouli",
+    "top_notes": "Blackcurrant Syrup; Cassis",
+    "middle_notes": "May Rose; Freesia",
+    "base_notes": "Vanilla; Ambroxan; Patchouli; White Wood"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Si Huile de Parfum",
+    "release_year": "2015",
+    "accords": "woody; floral; rose; aromatic; soft spicy; amber; green; fruity; vanilla; patchouli",
+    "top_notes": "Cassis",
+    "middle_notes": "May Rose; Freesia",
+    "base_notes": "Ambroxan; Woody Notes; Vanilla; Patchouli"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Sì Intense 2021",
+    "release_year": "2021",
+    "accords": "fruity; amber; warm spicy; rose; woody; patchouli; floral; balsamic; green; aromatic",
+    "top_notes": "Blackcurrant Syrup",
+    "middle_notes": "Turkish Rose; Davana",
+    "base_notes": "Benzoin; Patchouli"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Sì Intense",
+    "release_year": "2014",
+    "accords": "fruity; woody; floral; aromatic; soft spicy; green; vanilla; citrus; patchouli; rose",
+    "top_notes": "Black Currant; Cassis; Freesia; Mandarin Orange; Bergamot",
+    "middle_notes": "May Rose; Osmanthus; Neroli; Artemisia",
+    "base_notes": "Vanilla; Patchouli; Woody Notes; Ambroxan"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Si Intense Night Light",
+    "release_year": "2016",
+    "accords": "fruity; floral; citrus; woody; green; fresh spicy; aromatic; vanilla; rose; amber",
+    "top_notes": "Black Currant; Black currant leaf; Mandarin Orange; Freesia; Bergamot",
+    "middle_notes": "Rose; Osmanthus; Neroli; Artemisia",
+    "base_notes": "Vanilla; Ambroxan; Patchouli; Woody Notes"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Si Le Parfum",
+    "release_year": "2016",
+    "accords": "amber; fruity; warm spicy; vanilla; balsamic; woody; patchouli; floral; smoky; soft spicy",
+    "top_notes": "Black Currant; Bergamot",
+    "middle_notes": "Incense; Osmanthus; Jasmine",
+    "base_notes": "Amber; Benzoin; Vanilla; Patchouli Leaf"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Si Nacre Edition 2019",
+    "release_year": "2019",
+    "accords": "fruity; aromatic; floral; soft spicy; green; woody; rose",
+    "top_notes": "Cassis; Blackcurrant Syrup; Fruits",
+    "middle_notes": "May Rose; Freesia",
+    "base_notes": "White Woods; Musk"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Si Nacre Edition",
+    "release_year": "2018",
+    "accords": "floral; rose; fruity; woody; patchouli; earthy; mossy; soft spicy; warm spicy",
+    "top_notes": "Black Currant",
+    "middle_notes": "May Rose; Freesia",
+    "base_notes": "Patchouli; Oakmoss"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Si Night Light",
+    "release_year": "2016",
+    "accords": "vanilla; fruity; floral; woody; amber; rose; green; soft spicy; musky; aromatic",
+    "top_notes": "Black Currant; Black currant leaf",
+    "middle_notes": "Rose; Freesia",
+    "base_notes": "Vanilla; Ambroxan; Woody Notes; Patchouli"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Sì Nude Bloom",
+    "release_year": "2026",
+    "accords": "citrus; rose; fresh spicy; fruity; floral; woody; aromatic; patchouli; warm spicy; vanilla",
+    "top_notes": "Blackcurrant; Bergamot; Black Pepper; Lemon; Citrus",
+    "middle_notes": "May Rose",
+    "base_notes": "Patchouli; Vanilla"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Sì Parfum",
+    "release_year": "2025",
+    "accords": "fruity; leather; vanilla; rose; warm spicy; woody; animalic; patchouli; floral; soft spicy",
+    "top_notes": "Blackcurrant; Saffron; Nectar",
+    "middle_notes": "Damask Rose",
+    "base_notes": "Vanilla; Leather; Patchouli"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Sì Passione",
+    "release_year": "2017",
+    "accords": "fruity; sweet; woody; vanilla; rose; soft spicy; floral; fresh; powdery; citrus",
+    "top_notes": "Pear; Black Currant; Pink Pepper; Grapefruit",
+    "middle_notes": "Pineapple; Rose; Jasmine; Heliotrope",
+    "base_notes": "Vanilla; Cedar; Patchouli; Amberwood"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Si Passione Eau de Parfum Collector Edition",
+    "release_year": "2021",
+    "accords": "fruity; vanilla; rose; soft spicy; sweet; woody; floral; powdery; white floral",
+    "top_notes": "Black Currant; Pink Pepper; Pear; Grapefruit",
+    "middle_notes": "Rose; Pineapple; Heliotrope; Jasmine",
+    "base_notes": "Vanilla; Cedar; Amberwood; Patchouli"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Si Passione Eclat De Parfum",
+    "release_year": "2022",
+    "accords": "rose; fruity; musky; floral; citrus; powdery; soft spicy; vanilla; fresh spicy; aromatic",
+    "top_notes": "Black Currant; Calabrian bergamot",
+    "middle_notes": "May Rose; Damask Rose",
+    "base_notes": "White Musk; Madagascar Vanilla"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Sì Passione Intense (2024)",
+    "release_year": "2024",
+    "accords": "fruity; woody; vanilla; white floral; powdery; sweet; floral; soft spicy; aromatic; citrus",
+    "top_notes": "Blackcurrant; Pear; Bergamot",
+    "middle_notes": "Jasmine",
+    "base_notes": "Vanilla; Sandalwood"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Sì Passione Intense",
+    "release_year": "2020",
+    "accords": "woody; fruity; musky; powdery; white floral; patchouli; soft spicy; vanilla; floral; animalic",
+    "top_notes": "Blackcurrant Syrup",
+    "middle_notes": "Jasmine",
+    "base_notes": "White Musk; Cedar; Patchouli; Vanilla"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Sì Passione Laser Limited Edition",
+    "release_year": "2022",
+    "accords": "fruity; woody; vanilla; sweet; rose; soft spicy; floral; powdery; patchouli; white floral",
+    "top_notes": "Black Currant; Pear; Pink Pepper; Grapefruit",
+    "middle_notes": "Rose; Jasmine; Pineapple; Heliotrope",
+    "base_notes": "Vanilla; Cedar; Patchouli; Amberwood"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Sì Passione Limited Edition 2019",
+    "release_year": "2019",
+    "accords": "woody; rose; floral; vanilla; soft spicy; aromatic; green; fruity; amber; earthy",
+    "top_notes": "Currant buds",
+    "middle_notes": "Rose; Freesia",
+    "base_notes": "Vanilla; Woodsy Notes; Ambroxan; Patchouli"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Sì Passione Limited Edition",
+    "release_year": "2018",
+    "accords": "fruity; sweet; vanilla; woody; powdery; soft spicy; floral; white floral; citrus; rose",
+    "top_notes": "Black Currant; Pear; Grapefruit; Pink Pepper",
+    "middle_notes": "Pineapple; Jasmine; Rose; Heliotrope",
+    "base_notes": "Vanilla; Cedar; Amberwood; Patchouli"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Sì Passione Red Bloom",
+    "release_year": "2026",
+    "accords": "fruity; rose; sweet; woody; powdery; floral; citrus; amber; musky; vanilla",
+    "top_notes": "Raspberry; Blackcurrant; Bergamot",
+    "middle_notes": "Rose Petals; Rose; Iris Pallida",
+    "base_notes": "Cashmeran; Bourbon Vanilla; Amberwood"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Sì Passione Red Maestro",
+    "release_year": "2019",
+    "accords": "musky; fruity; soft spicy; vanilla; powdery; white floral; sweet; aldehydic; floral; animalic",
+    "top_notes": "Black Currant; Pink Pepper",
+    "middle_notes": "Solar Notes; Jasmine",
+    "base_notes": "Musk; Vanilla"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Si Passione Red Musk",
+    "release_year": "2025",
+    "accords": "fruity; sweet; musky; powdery; rose; vanilla; lactonic",
+    "top_notes": "Strawberry; Musk",
+    "middle_notes": "Rose; Milk",
+    "base_notes": "Musk; Vanilla"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Si Rose Signature",
+    "release_year": "2016",
+    "accords": "floral; rose; fruity; citrus; vanilla; woody; soft spicy; powdery; iris; patchouli",
+    "top_notes": "",
+    "middle_notes": "",
+    "base_notes": "Rose de Mai; Damask Rose; Black Currant; Vanilla; Freesia; Mandarin Orange; Iris; Patchouli; Osmanthus; Bergamot; Ambrette (Musk Mallow); Amber"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Si Rose Signature II Eau de Parfum",
+    "release_year": "2017",
+    "accords": "floral; rose; fruity; citrus; vanilla; woody; soft spicy; powdery; iris; patchouli",
+    "top_notes": "Black Currant; Freesia; Mandarin Orange; Bergamot",
+    "middle_notes": "Turkish Rose; May Rose; Iris; Osmanthus",
+    "base_notes": "Vanilla; Patchouli; Ambrette (Musk Mallow)"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Si Sono Io",
+    "release_year": "2017",
+    "accords": "vanilla; woody; soft spicy; aromatic; rose; floral; fruity; green; amber; patchouli",
+    "top_notes": "Cassis",
+    "middle_notes": "Rose; Freesia",
+    "base_notes": "Vanilla; Amber; Patchouli; Woody Notes"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Si White",
+    "release_year": "2014",
+    "accords": "fruity; vanilla; floral; woody; rose; soft spicy; amber; patchouli; powdery; musky",
+    "top_notes": "Blackcurrant Syrup",
+    "middle_notes": "Rose; Freesia",
+    "base_notes": "Vanilla; Ambroxan; Patchouli; Woodsy Notes"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Sky di Gioia",
+    "release_year": "2016",
+    "accords": "fruity; fresh; rose; floral; tropical; sweet; musky; aquatic",
+    "top_notes": "Litchi; Pear",
+    "middle_notes": "Pink Peony; Rose",
+    "base_notes": "White Musk; Blackberry; Cedar"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Summer Mania Eau Fraiche pour Femme",
+    "release_year": "2007",
+    "accords": "musky; powdery; amber; woody; white floral; fruity; sweet; animalic; warm spicy; fresh",
+    "top_notes": "Pear",
+    "middle_notes": "Jasmine",
+    "base_notes": "White Musk; Amber; Sandalwood"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Summer Mania Eau Fraiche pour Homme",
+    "release_year": "2007",
+    "accords": "citrus; musky; warm spicy; fresh; metallic; powdery; leather",
+    "top_notes": "Citruses",
+    "middle_notes": "Saffron",
+    "base_notes": "Musk"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Summer Mania Femme",
+    "release_year": "2006",
+    "accords": "floral; fruity; fresh; white floral; rose; citrus; woody; green; ozonic; sweet",
+    "top_notes": "Black Currant; Violet Leaf; Mandarin Orange; Orange; Cassia; Pear",
+    "middle_notes": "Peony; Jasmine; Rose; Lily-of-the-Valley; Hawthorn",
+    "base_notes": "Sandalwood; Amber; White Musk"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Summer Mania Homme",
+    "release_year": "2006",
+    "accords": "citrus; musky; powdery; woody; amber; warm spicy; fresh spicy; metallic",
+    "top_notes": "Sicilian Mandarin; Bergamot",
+    "middle_notes": "Saffron",
+    "base_notes": "Musk; Amber; Cedar"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Sun di Gioia",
+    "release_year": "2016",
+    "accords": "floral; amber; vanilla; tropical; yellow floral; citrus; sweet; powdery; lactonic; musky",
+    "top_notes": "Freesia; Bergamot",
+    "middle_notes": "Frangipani; Ylang-Ylang; Jasmine Sambac",
+    "base_notes": "Vanilla; Ambroxan; Benzoin; Iris"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Terra di Gioia",
+    "release_year": "2021",
+    "accords": "floral; sweet; amber; woody; white floral; musky; fruity; citrus; almond; powdery",
+    "top_notes": "Pear; Mandarin Orange; Bergamot",
+    "middle_notes": "Almond Blossom; Jasmine",
+    "base_notes": "Amberwood; Musk"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Thé Yulong",
+    "release_year": "2020",
+    "accords": "citrus; green; white floral; aromatic; woody; fresh; earthy; floral; iris; musky",
+    "top_notes": "Mandarin Orange; Petitgrain; Cardamom",
+    "middle_notes": "Green Tea; Black Tea; Orange Blossom; Jasmine",
+    "base_notes": "Vetiver; Ambrette (Musk Mallow); Iris"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Thé Yulong Eau de Toilette Edition Limitée",
+    "release_year": "2024",
+    "accords": "citrus; green; aromatic; woody; fresh spicy; fresh; white floral; musky; floral",
+    "top_notes": "Lime; Green Mandarin; Petitgrain",
+    "middle_notes": "Black Tea; Green Tea; Mate; Jasmine; Orange Blossom",
+    "base_notes": "Guaiac Wood; Ambrette; Iris"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Thé Yulong Soie de Nacre",
+    "release_year": "2021",
+    "accords": "citrus; green; white floral; aromatic; woody; earthy; iris; floral; musky; fresh",
+    "top_notes": "Petitgrain; Mandarin Orange; Cardamom",
+    "middle_notes": "Green Tea; Black Tea; Orange Blossom; Jasmine",
+    "base_notes": "Vetiver; Ambrette (Musk Mallow); Iris"
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Vétiver d'Hiver (Vetiver Babylone)",
+    "release_year": "2008",
+    "accords": "citrus; aromatic; woody; earthy; fresh spicy",
+    "top_notes": "Bergamot; Lemon; Mandarin Orange",
+    "middle_notes": "Pink Pepper; Cardamom; Coriander",
+    "base_notes": "Vetiver; Patchouli"
+  }
+]

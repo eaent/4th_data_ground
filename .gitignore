@@ -217,3 +217,7 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 /database/Giorgio_Armani/html
+
+# HTML files
+*.html
+*.htm
