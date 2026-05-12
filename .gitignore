@@ -221,3 +221,6 @@ __marimo__/
 # HTML files
 *.html
 *.htm
+
+# oh-my-codex local runtime state
+.omx/
