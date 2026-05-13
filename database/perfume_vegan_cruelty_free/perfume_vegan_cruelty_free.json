@@ -1,0 +1,714 @@
+[
+  {
+    "brand": "조말론",
+    "product_name": "Lime Basil & Mandarin Cologne",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "에스티로더 계열/동물실험 예외 정책 및 제품별 비건 확인 불가로 보수 판정",
+    "source_urls": "https://www.jomalone.com/customer-service-corporate#animal-testing|https://www.consciousbunny.com/is-jo-malone-cruelty-free/"
+  },
+  {
+    "brand": "조말론",
+    "product_name": "English Pear & Freesia Cologne",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "에스티로더 계열/동물실험 예외 정책 및 제품별 비건 확인 불가로 보수 판정",
+    "source_urls": "https://www.jomalone.com/customer-service-corporate#animal-testing|https://www.consciousbunny.com/is-jo-malone-cruelty-free/"
+  },
+  {
+    "brand": "조말론",
+    "product_name": "Wood Sage & Sea Salt Cologne",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "에스티로더 계열/동물실험 예외 정책 및 제품별 비건 확인 불가로 보수 판정",
+    "source_urls": "https://www.jomalone.com/customer-service-corporate#animal-testing|https://www.consciousbunny.com/is-jo-malone-cruelty-free/"
+  },
+  {
+    "brand": "조말론",
+    "product_name": "Peony & Blush Suede Cologne",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "에스티로더 계열/동물실험 예외 정책 및 제품별 비건 확인 불가로 보수 판정",
+    "source_urls": "https://www.jomalone.com/customer-service-corporate#animal-testing|https://www.consciousbunny.com/is-jo-malone-cruelty-free/"
+  },
+  {
+    "brand": "조말론",
+    "product_name": "Myrrh & Tonka Cologne Intense",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "에스티로더 계열/동물실험 예외 정책 및 제품별 비건 확인 불가로 보수 판정",
+    "source_urls": "https://www.jomalone.com/customer-service-corporate#animal-testing|https://www.consciousbunny.com/is-jo-malone-cruelty-free/"
+  },
+  {
+    "brand": "샤넬",
+    "product_name": "N°5 Eau de Parfum",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "동물실험/법 요구 시장 관련 리스크 및 제품별 비건 확인 불가",
+    "source_urls": "https://www.crueltyfreekitty.com/brands/chanel/"
+  },
+  {
+    "brand": "샤넬",
+    "product_name": "Coco Mademoiselle Eau de Parfum",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "동물실험/법 요구 시장 관련 리스크 및 제품별 비건 확인 불가",
+    "source_urls": "https://www.crueltyfreekitty.com/brands/chanel/"
+  },
+  {
+    "brand": "샤넬",
+    "product_name": "Chance Eau Tendre Eau de Toilette",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "동물실험/법 요구 시장 관련 리스크 및 제품별 비건 확인 불가",
+    "source_urls": "https://www.crueltyfreekitty.com/brands/chanel/"
+  },
+  {
+    "brand": "샤넬",
+    "product_name": "Bleu de Chanel Eau de Parfum",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "동물실험/법 요구 시장 관련 리스크 및 제품별 비건 확인 불가",
+    "source_urls": "https://www.crueltyfreekitty.com/brands/chanel/"
+  },
+  {
+    "brand": "샤넬",
+    "product_name": "Gabrielle Chanel Eau de Parfum",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "동물실험/법 요구 시장 관련 리스크 및 제품별 비건 확인 불가",
+    "source_urls": "https://www.crueltyfreekitty.com/brands/chanel/"
+  },
+  {
+    "brand": "딥디크",
+    "product_name": "Philosykos Eau de Parfum",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "브랜드/제품별 비건·크루얼티프리 확정 근거 부족으로 보수 판정",
+    "source_urls": "https://www.consciousbunny.com/is-diptyque-cruelty-free/"
+  },
+  {
+    "brand": "딥디크",
+    "product_name": "Do Son Eau de Toilette",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "브랜드/제품별 비건·크루얼티프리 확정 근거 부족으로 보수 판정",
+    "source_urls": "https://www.consciousbunny.com/is-diptyque-cruelty-free/"
+  },
+  {
+    "brand": "딥디크",
+    "product_name": "Eau Rose Eau de Parfum",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "브랜드/제품별 비건·크루얼티프리 확정 근거 부족으로 보수 판정",
+    "source_urls": "https://www.consciousbunny.com/is-diptyque-cruelty-free/"
+  },
+  {
+    "brand": "딥디크",
+    "product_name": "L’Ombre dans l’Eau Eau de Parfum",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "브랜드/제품별 비건·크루얼티프리 확정 근거 부족으로 보수 판정",
+    "source_urls": "https://www.consciousbunny.com/is-diptyque-cruelty-free/"
+  },
+  {
+    "brand": "딥디크",
+    "product_name": "Orphéon Eau de Parfum",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "브랜드/제품별 비건·크루얼티프리 확정 근거 부족으로 보수 판정",
+    "source_urls": "https://www.consciousbunny.com/is-diptyque-cruelty-free/"
+  },
+  {
+    "brand": "바이레도",
+    "product_name": "Blanche Eau de Parfum",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "크루얼티프리/비건 여부에 대한 공식 확정 근거 부족 및 제품별 비건 확인 불가",
+    "source_urls": "https://www.crueltyfreekitty.com/brands/byredo/|https://www.consciousbunny.com/is-byredo-cruelty-free/"
+  },
+  {
+    "brand": "바이레도",
+    "product_name": "Gypsy Water Eau de Parfum",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "크루얼티프리/비건 여부에 대한 공식 확정 근거 부족 및 제품별 비건 확인 불가",
+    "source_urls": "https://www.crueltyfreekitty.com/brands/byredo/|https://www.consciousbunny.com/is-byredo-cruelty-free/"
+  },
+  {
+    "brand": "바이레도",
+    "product_name": "Bal d’Afrique Eau de Parfum",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "크루얼티프리/비건 여부에 대한 공식 확정 근거 부족 및 제품별 비건 확인 불가",
+    "source_urls": "https://www.crueltyfreekitty.com/brands/byredo/|https://www.consciousbunny.com/is-byredo-cruelty-free/"
+  },
+  {
+    "brand": "바이레도",
+    "product_name": "Mojave Ghost Eau de Parfum",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "크루얼티프리/비건 여부에 대한 공식 확정 근거 부족 및 제품별 비건 확인 불가",
+    "source_urls": "https://www.crueltyfreekitty.com/brands/byredo/|https://www.consciousbunny.com/is-byredo-cruelty-free/"
+  },
+  {
+    "brand": "바이레도",
+    "product_name": "Rose of No Man’s Land Eau de Parfum",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "크루얼티프리/비건 여부에 대한 공식 확정 근거 부족 및 제품별 비건 확인 불가",
+    "source_urls": "https://www.crueltyfreekitty.com/brands/byredo/|https://www.consciousbunny.com/is-byredo-cruelty-free/"
+  },
+  {
+    "brand": "크리드",
+    "product_name": "Aventus",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "공식 제품별 비건·크루얼티프리 확정 근거 부족으로 보수 판정",
+    "source_urls": "https://www.crueltyfreekitty.com/bath-body/cruelty-free-perfume/"
+  },
+  {
+    "brand": "크리드",
+    "product_name": "Green Irish Tweed",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "공식 제품별 비건·크루얼티프리 확정 근거 부족으로 보수 판정",
+    "source_urls": "https://www.crueltyfreekitty.com/bath-body/cruelty-free-perfume/"
+  },
+  {
+    "brand": "크리드",
+    "product_name": "Silver Mountain Water",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "공식 제품별 비건·크루얼티프리 확정 근거 부족으로 보수 판정",
+    "source_urls": "https://www.crueltyfreekitty.com/bath-body/cruelty-free-perfume/"
+  },
+  {
+    "brand": "크리드",
+    "product_name": "Millésime Impérial",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "공식 제품별 비건·크루얼티프리 확정 근거 부족으로 보수 판정",
+    "source_urls": "https://www.crueltyfreekitty.com/bath-body/cruelty-free-perfume/"
+  },
+  {
+    "brand": "크리드",
+    "product_name": "Love in White",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "공식 제품별 비건·크루얼티프리 확정 근거 부족으로 보수 판정",
+    "source_urls": "https://www.crueltyfreekitty.com/bath-body/cruelty-free-perfume/"
+  },
+  {
+    "brand": "불가리",
+    "product_name": "Omnia Crystalline",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "대형 럭셔리/법 요구 시장 리스크 및 제품별 비건 확인 불가",
+    "source_urls": "https://www.crueltyfreekitty.com/bath-body/cruelty-free-perfume/"
+  },
+  {
+    "brand": "불가리",
+    "product_name": "Bvlgari Man in Black",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "대형 럭셔리/법 요구 시장 리스크 및 제품별 비건 확인 불가",
+    "source_urls": "https://www.crueltyfreekitty.com/bath-body/cruelty-free-perfume/"
+  },
+  {
+    "brand": "불가리",
+    "product_name": "Rose Goldea",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "대형 럭셔리/법 요구 시장 리스크 및 제품별 비건 확인 불가",
+    "source_urls": "https://www.crueltyfreekitty.com/bath-body/cruelty-free-perfume/"
+  },
+  {
+    "brand": "불가리",
+    "product_name": "Aqva Pour Homme",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "대형 럭셔리/법 요구 시장 리스크 및 제품별 비건 확인 불가",
+    "source_urls": "https://www.crueltyfreekitty.com/bath-body/cruelty-free-perfume/"
+  },
+  {
+    "brand": "불가리",
+    "product_name": "Bvlgari Pour Homme",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "대형 럭셔리/법 요구 시장 리스크 및 제품별 비건 확인 불가",
+    "source_urls": "https://www.crueltyfreekitty.com/bath-body/cruelty-free-perfume/"
+  },
+  {
+    "brand": "나그참파",
+    "product_name": "Satya Sai Baba Nag Champa",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "향/인센스 계열로 제품별 동물성 성분·동물실험 정책 확인 불가",
+    "source_urls": ""
+  },
+  {
+    "brand": "나그참파",
+    "product_name": "Satya Super Hit",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "향/인센스 계열로 제품별 동물성 성분·동물실험 정책 확인 불가",
+    "source_urls": ""
+  },
+  {
+    "brand": "나그참파",
+    "product_name": "Satya Dragon’s Blood",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "향/인센스 계열로 제품별 동물성 성분·동물실험 정책 확인 불가",
+    "source_urls": ""
+  },
+  {
+    "brand": "나그참파",
+    "product_name": "Satya Sandalwood",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "향/인센스 계열로 제품별 동물성 성분·동물실험 정책 확인 불가",
+    "source_urls": ""
+  },
+  {
+    "brand": "나그참파",
+    "product_name": "Satya Patchouli Forest",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "향/인센스 계열로 제품별 동물성 성분·동물실험 정책 확인 불가",
+    "source_urls": ""
+  },
+  {
+    "brand": "디올",
+    "product_name": "Sauvage Eau de Parfum",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "동물실험/법 요구 시장 관련 리스크 및 제품별 비건 확인 불가",
+    "source_urls": "https://www.crueltyfreekitty.com/brands/dior/"
+  },
+  {
+    "brand": "디올",
+    "product_name": "Miss Dior Eau de Parfum",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "동물실험/법 요구 시장 관련 리스크 및 제품별 비건 확인 불가",
+    "source_urls": "https://www.crueltyfreekitty.com/brands/dior/"
+  },
+  {
+    "brand": "디올",
+    "product_name": "J’adore Eau de Parfum",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "동물실험/법 요구 시장 관련 리스크 및 제품별 비건 확인 불가",
+    "source_urls": "https://www.crueltyfreekitty.com/brands/dior/"
+  },
+  {
+    "brand": "디올",
+    "product_name": "Dior Homme Intense",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "동물실험/법 요구 시장 관련 리스크 및 제품별 비건 확인 불가",
+    "source_urls": "https://www.crueltyfreekitty.com/brands/dior/"
+  },
+  {
+    "brand": "디올",
+    "product_name": "Hypnotic Poison",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "동물실험/법 요구 시장 관련 리스크 및 제품별 비건 확인 불가",
+    "source_urls": "https://www.crueltyfreekitty.com/brands/dior/"
+  },
+  {
+    "brand": "조르지오아르마니",
+    "product_name": "Acqua di Giò Eau de Toilette",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "로레알 계열/법 요구 시장 리스크 및 제품별 비건 확인 불가",
+    "source_urls": "https://www.crueltyfreekitty.com/brands/giorgio-armani/"
+  },
+  {
+    "brand": "조르지오아르마니",
+    "product_name": "Sì Eau de Parfum",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "로레알 계열/법 요구 시장 리스크 및 제품별 비건 확인 불가",
+    "source_urls": "https://www.crueltyfreekitty.com/brands/giorgio-armani/"
+  },
+  {
+    "brand": "조르지오아르마니",
+    "product_name": "My Way Eau de Parfum",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "로레알 계열/법 요구 시장 리스크 및 제품별 비건 확인 불가",
+    "source_urls": "https://www.crueltyfreekitty.com/brands/giorgio-armani/"
+  },
+  {
+    "brand": "조르지오아르마니",
+    "product_name": "Armani Code Parfum",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "로레알 계열/법 요구 시장 리스크 및 제품별 비건 확인 불가",
+    "source_urls": "https://www.crueltyfreekitty.com/brands/giorgio-armani/"
+  },
+  {
+    "brand": "조르지오아르마니",
+    "product_name": "Armani Privé Thé Yulong",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "로레알 계열/법 요구 시장 리스크 및 제품별 비건 확인 불가",
+    "source_urls": "https://www.crueltyfreekitty.com/brands/giorgio-armani/"
+  },
+  {
+    "brand": "메종프란시스커크집",
+    "product_name": "Baccarat Rouge 540 Eau de Parfum",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "LVMH 계열/제품별 비건·크루얼티프리 확정 근거 부족으로 보수 판정",
+    "source_urls": "https://www.crueltyfreekitty.com/bath-body/cruelty-free-perfume/"
+  },
+  {
+    "brand": "메종프란시스커크집",
+    "product_name": "Aqua Universalis Eau de Toilette",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "LVMH 계열/제품별 비건·크루얼티프리 확정 근거 부족으로 보수 판정",
+    "source_urls": "https://www.crueltyfreekitty.com/bath-body/cruelty-free-perfume/"
+  },
+  {
+    "brand": "메종프란시스커크집",
+    "product_name": "Oud Satin Mood Eau de Parfum",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "LVMH 계열/제품별 비건·크루얼티프리 확정 근거 부족으로 보수 판정",
+    "source_urls": "https://www.crueltyfreekitty.com/bath-body/cruelty-free-perfume/"
+  },
+  {
+    "brand": "메종프란시스커크집",
+    "product_name": "Grand Soir Eau de Parfum",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "LVMH 계열/제품별 비건·크루얼티프리 확정 근거 부족으로 보수 판정",
+    "source_urls": "https://www.crueltyfreekitty.com/bath-body/cruelty-free-perfume/"
+  },
+  {
+    "brand": "메종프란시스커크집",
+    "product_name": "Gentle Fluidity Gold Eau de Parfum",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "LVMH 계열/제품별 비건·크루얼티프리 확정 근거 부족으로 보수 판정",
+    "source_urls": "https://www.crueltyfreekitty.com/bath-body/cruelty-free-perfume/"
+  },
+  {
+    "brand": "르라보",
+    "product_name": "Santal 33 Eau de Parfum",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "에스티로더 계열/제품별 비건 확인 불가로 보수 판정",
+    "source_urls": "https://www.ethicalelephant.com/is-le-labo-cruelty-free-vegan/"
+  },
+  {
+    "brand": "르라보",
+    "product_name": "Another 13 Eau de Parfum",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "에스티로더 계열/제품별 비건 확인 불가로 보수 판정",
+    "source_urls": "https://www.ethicalelephant.com/is-le-labo-cruelty-free-vegan/"
+  },
+  {
+    "brand": "르라보",
+    "product_name": "Thé Noir 29 Eau de Parfum",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "에스티로더 계열/제품별 비건 확인 불가로 보수 판정",
+    "source_urls": "https://www.ethicalelephant.com/is-le-labo-cruelty-free-vegan/"
+  },
+  {
+    "brand": "르라보",
+    "product_name": "Rose 31 Eau de Parfum",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "에스티로더 계열/제품별 비건 확인 불가로 보수 판정",
+    "source_urls": "https://www.ethicalelephant.com/is-le-labo-cruelty-free-vegan/"
+  },
+  {
+    "brand": "르라보",
+    "product_name": "Bergamote 22 Eau de Parfum",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "에스티로더 계열/제품별 비건 확인 불가로 보수 판정",
+    "source_urls": "https://www.ethicalelephant.com/is-le-labo-cruelty-free-vegan/"
+  },
+  {
+    "brand": "톰포드",
+    "product_name": "Black Orchid Eau de Parfum",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "에스티로더 계열/동물실험 예외 정책 및 제품별 비건 확인 불가로 보수 판정",
+    "source_urls": "https://www.tomfordbeauty.com/customer-service-corporate#animal-testing"
+  },
+  {
+    "brand": "톰포드",
+    "product_name": "Oud Wood Eau de Parfum",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "에스티로더 계열/동물실험 예외 정책 및 제품별 비건 확인 불가로 보수 판정",
+    "source_urls": "https://www.tomfordbeauty.com/customer-service-corporate#animal-testing"
+  },
+  {
+    "brand": "톰포드",
+    "product_name": "Tobacco Vanille Eau de Parfum",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "에스티로더 계열/동물실험 예외 정책 및 제품별 비건 확인 불가로 보수 판정",
+    "source_urls": "https://www.tomfordbeauty.com/customer-service-corporate#animal-testing"
+  },
+  {
+    "brand": "톰포드",
+    "product_name": "Neroli Portofino Eau de Parfum",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "에스티로더 계열/동물실험 예외 정책 및 제품별 비건 확인 불가로 보수 판정",
+    "source_urls": "https://www.tomfordbeauty.com/customer-service-corporate#animal-testing"
+  },
+  {
+    "brand": "톰포드",
+    "product_name": "Soleil Blanc Eau de Parfum",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "에스티로더 계열/동물실험 예외 정책 및 제품별 비건 확인 불가로 보수 판정",
+    "source_urls": "https://www.tomfordbeauty.com/customer-service-corporate#animal-testing"
+  },
+  {
+    "brand": "시로",
+    "product_name": "Savon Eau de Parfum",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "공식 FAQ에서 100% 식물성 제품 없음 취지 확인; 비건 기준 미충족으로 사용자 정의상 CF도 0",
+    "source_urls": "https://qa.shiro-shiro.jp/ヴィーガンまたは植物由来100％の製品、動物実験について-6624aaa4832e3b002550b4a0"
+  },
+  {
+    "brand": "시로",
+    "product_name": "White Lily Eau de Parfum",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "공식 FAQ에서 100% 식물성 제품 없음 취지 확인; 비건 기준 미충족으로 사용자 정의상 CF도 0",
+    "source_urls": "https://qa.shiro-shiro.jp/ヴィーガンまたは植物由来100％の製品、動物実験について-6624aaa4832e3b002550b4a0"
+  },
+  {
+    "brand": "시로",
+    "product_name": "White Tea Eau de Parfum",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "공식 FAQ에서 100% 식물성 제품 없음 취지 확인; 비건 기준 미충족으로 사용자 정의상 CF도 0",
+    "source_urls": "https://qa.shiro-shiro.jp/ヴィーガンまたは植物由来100％の製品、動物実験について-6624aaa4832e3b002550b4a0"
+  },
+  {
+    "brand": "시로",
+    "product_name": "Earl Grey Eau de Parfum",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "공식 FAQ에서 100% 식물성 제품 없음 취지 확인; 비건 기준 미충족으로 사용자 정의상 CF도 0",
+    "source_urls": "https://qa.shiro-shiro.jp/ヴィーガンまたは植物由来100％の製品、動物実験について-6624aaa4832e3b002550b4a0"
+  },
+  {
+    "brand": "시로",
+    "product_name": "Freesia Mist Eau de Parfum",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "공식 FAQ에서 100% 식물성 제품 없음 취지 확인; 비건 기준 미충족으로 사용자 정의상 CF도 0",
+    "source_urls": "https://qa.shiro-shiro.jp/ヴィーガンまたは植物由来100％の製品、動物実験について-6624aaa4832e3b002550b4a0"
+  },
+  {
+    "brand": "그랑핸드",
+    "product_name": "Susie Salmon Perfume",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "공식 제품별 비건·동물실험 정책 확인 불가로 보수 판정",
+    "source_urls": "https://en.granhand.com/"
+  },
+  {
+    "brand": "그랑핸드",
+    "product_name": "Marine Orchid Perfume",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "공식 제품별 비건·동물실험 정책 확인 불가로 보수 판정",
+    "source_urls": "https://en.granhand.com/"
+  },
+  {
+    "brand": "그랑핸드",
+    "product_name": "Violette Perfume",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "공식 제품별 비건·동물실험 정책 확인 불가로 보수 판정",
+    "source_urls": "https://en.granhand.com/"
+  },
+  {
+    "brand": "그랑핸드",
+    "product_name": "Kyujang Perfume",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "공식 제품별 비건·동물실험 정책 확인 불가로 보수 판정",
+    "source_urls": "https://en.granhand.com/"
+  },
+  {
+    "brand": "그랑핸드",
+    "product_name": "Sopni Perfume",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "공식 제품별 비건·동물실험 정책 확인 불가로 보수 판정",
+    "source_urls": "https://en.granhand.com/"
+  },
+  {
+    "brand": "유쏘풀",
+    "product_name": "쥬뗌므",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "공식 제품별 비건·동물실험 정책 확인 불가로 보수 판정",
+    "source_urls": "https://www.youssoful.co.kr/"
+  },
+  {
+    "brand": "유쏘풀",
+    "product_name": "스타레므네스토",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "공식 제품별 비건·동물실험 정책 확인 불가로 보수 판정",
+    "source_urls": "https://www.youssoful.co.kr/"
+  },
+  {
+    "brand": "유쏘풀",
+    "product_name": "세인트모리츠",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "공식 제품별 비건·동물실험 정책 확인 불가로 보수 판정",
+    "source_urls": "https://www.youssoful.co.kr/"
+  },
+  {
+    "brand": "유쏘풀",
+    "product_name": "베리섹시",
+    "vegan": 0,
+    "cruelty_free": 0,
+    "judgment_note": "공식 제품별 비건·동물실험 정책 확인 불가로 보수 판정",
+    "source_urls": "https://www.youssoful.co.kr/"
+  },
+  {
+    "brand": "이솝",
+    "product_name": "Tacit Eau de Parfum",
+    "vegan": 1,
+    "cruelty_free": 1,
+    "judgment_note": "공식 FAQ: 동물 유래 성분 미사용, Leaping Bunny 크루얼티프리 승인",
+    "source_urls": "https://us.assistance.aesop.com/hc/en-us/articles/7406684620687-Are-Aesop-products-vegan"
+  },
+  {
+    "brand": "이솝",
+    "product_name": "Hwyl Eau de Parfum",
+    "vegan": 1,
+    "cruelty_free": 1,
+    "judgment_note": "공식 FAQ: 동물 유래 성분 미사용, Leaping Bunny 크루얼티프리 승인",
+    "source_urls": "https://us.assistance.aesop.com/hc/en-us/articles/7406684620687-Are-Aesop-products-vegan"
+  },
+  {
+    "brand": "이솝",
+    "product_name": "Rozu Eau de Parfum",
+    "vegan": 1,
+    "cruelty_free": 1,
+    "judgment_note": "공식 FAQ: 동물 유래 성분 미사용, Leaping Bunny 크루얼티프리 승인",
+    "source_urls": "https://us.assistance.aesop.com/hc/en-us/articles/7406684620687-Are-Aesop-products-vegan"
+  },
+  {
+    "brand": "이솝",
+    "product_name": "Marrakech Intense Eau de Parfum",
+    "vegan": 1,
+    "cruelty_free": 1,
+    "judgment_note": "공식 FAQ: 동물 유래 성분 미사용, Leaping Bunny 크루얼티프리 승인",
+    "source_urls": "https://us.assistance.aesop.com/hc/en-us/articles/7406684620687-Are-Aesop-products-vegan"
+  },
+  {
+    "brand": "이솝",
+    "product_name": "Eidesis Eau de Parfum",
+    "vegan": 1,
+    "cruelty_free": 1,
+    "judgment_note": "공식 FAQ: 동물 유래 성분 미사용, Leaping Bunny 크루얼티프리 승인",
+    "source_urls": "https://us.assistance.aesop.com/hc/en-us/articles/7406684620687-Are-Aesop-products-vegan"
+  },
+  {
+    "brand": "러쉬(한국)",
+    "product_name": "Karma Perfume",
+    "vegan": 1,
+    "cruelty_free": 1,
+    "judgment_note": "LUSH 비건 퍼퓸 카테고리/동물실험 반대 정책 기준",
+    "source_urls": "https://www.lush.com/us/en_us/c/vegan-perfume|https://www.lush.com/uk/en/a/against-animal-testing-policy"
+  },
+  {
+    "brand": "러쉬(한국)",
+    "product_name": "Lord of Misrule Perfume",
+    "vegan": 1,
+    "cruelty_free": 1,
+    "judgment_note": "LUSH 비건 퍼퓸 카테고리/동물실험 반대 정책 기준",
+    "source_urls": "https://www.lush.com/us/en_us/c/vegan-perfume|https://www.lush.com/uk/en/a/against-animal-testing-policy"
+  },
+  {
+    "brand": "러쉬(한국)",
+    "product_name": "Vanillary Perfume",
+    "vegan": 1,
+    "cruelty_free": 1,
+    "judgment_note": "LUSH 비건 퍼퓸 카테고리/동물실험 반대 정책 기준",
+    "source_urls": "https://www.lush.com/us/en_us/c/vegan-perfume|https://www.lush.com/uk/en/a/against-animal-testing-policy"
+  },
+  {
+    "brand": "러쉬(한국)",
+    "product_name": "Dirty Body Spray",
+    "vegan": 1,
+    "cruelty_free": 1,
+    "judgment_note": "LUSH 비건 퍼퓸 카테고리/동물실험 반대 정책 기준",
+    "source_urls": "https://www.lush.com/us/en_us/c/vegan-perfume|https://www.lush.com/uk/en/a/against-animal-testing-policy"
+  },
+  {
+    "brand": "러쉬(한국)",
+    "product_name": "Lust Perfume",
+    "vegan": 1,
+    "cruelty_free": 1,
+    "judgment_note": "LUSH 비건 퍼퓸 카테고리/동물실험 반대 정책 기준",
+    "source_urls": "https://www.lush.com/us/en_us/c/vegan-perfume|https://www.lush.com/uk/en/a/against-animal-testing-policy"
+  },
+  {
+    "brand": "러쉬(영국)",
+    "product_name": "Karma Perfume",
+    "vegan": 1,
+    "cruelty_free": 1,
+    "judgment_note": "LUSH 비건 퍼퓸 카테고리/동물실험 반대 정책 기준",
+    "source_urls": "https://www.lush.com/us/en_us/c/vegan-perfume|https://www.lush.com/uk/en/a/against-animal-testing-policy"
+  },
+  {
+    "brand": "러쉬(영국)",
+    "product_name": "Lord of Misrule Perfume",
+    "vegan": 1,
+    "cruelty_free": 1,
+    "judgment_note": "LUSH 비건 퍼퓸 카테고리/동물실험 반대 정책 기준",
+    "source_urls": "https://www.lush.com/us/en_us/c/vegan-perfume|https://www.lush.com/uk/en/a/against-animal-testing-policy"
+  },
+  {
+    "brand": "러쉬(영국)",
+    "product_name": "Vanillary Perfume",
+    "vegan": 1,
+    "cruelty_free": 1,
+    "judgment_note": "LUSH 비건 퍼퓸 카테고리/동물실험 반대 정책 기준",
+    "source_urls": "https://www.lush.com/us/en_us/c/vegan-perfume|https://www.lush.com/uk/en/a/against-animal-testing-policy"
+  },
+  {
+    "brand": "러쉬(영국)",
+    "product_name": "Dirty Body Spray",
+    "vegan": 1,
+    "cruelty_free": 1,
+    "judgment_note": "LUSH 비건 퍼퓸 카테고리/동물실험 반대 정책 기준",
+    "source_urls": "https://www.lush.com/us/en_us/c/vegan-perfume|https://www.lush.com/uk/en/a/against-animal-testing-policy"
+  },
+  {
+    "brand": "러쉬(영국)",
+    "product_name": "Lust Perfume",
+    "vegan": 1,
+    "cruelty_free": 1,
+    "judgment_note": "LUSH 비건 퍼퓸 카테고리/동물실험 반대 정책 기준",
+    "source_urls": "https://www.lush.com/us/en_us/c/vegan-perfume|https://www.lush.com/uk/en/a/against-animal-testing-policy"
+  }
+]
